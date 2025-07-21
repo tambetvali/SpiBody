@@ -94,8 +94,7 @@ The human as living organism with soul is indeed different, but we share many ph
 
 ## Vikings
 
-__Introduction to Nordic
-Cultures__ (_Edited by Annika Lindskog and Jakob Stougaard-Nielsen_)
+#### __Introduction to Nordic Cultures__ (_Edited by Annika Lindskog and Jakob Stougaard-Nielsen_)
 
 You could find about Viking Magic, which more often than not includes physical makeup for containing the Spirit, runes and poetry.
 
@@ -104,6 +103,18 @@ Vikings rather do not _believe_, which means that their approach is practical: w
 Viking should have a magical body, just as a Siberian: we do not believe much in sense of belief or "breaking the natural laws", rather it's a good style and natural flow, essential to human being, which associates it with symbols and proper feelings of movement of the body, bringing it to natural flows and effects; by going through Shamanism, Alchemy, Religion and Materialism, each is strenghtening the human nature by the experience, while none of them deserves heavy protection for a specific thing.
 
 In this book, the Viking attitude is described in Swedish example, which is deeply rooted in freedom of mind, and coexistence of different nations, religions and beliefs with careful scientific observation, which rather informs than fights with anything - if you are a believer in religion, it makes any sense to criticise other religions, but as a Viking, you find forests and nature, perhaps some spirits or feelings they would produce, you find towers, people eating properly and creating unification - you could see them having different sizes, different materials, different ways to develop and colors, but you still meet many things you could understand, such as relating the tower to the sky; indeed, in the tower, to get an association of things high above as is natural and evident for a Viking. This experience shapes us.
+
+#### __The Viking method__ (_Svava Sigbertsdottir_)
+
+Okay this contains some ethos, motivational remark, then a heavy list of diet and a number of exercises.
+
+When I read the book, she will be my first actual Viking teacher - I have the Viking culture somewhere from my childhood, vague memories of songs, rather melodies alone, and names which I recognize - somehow respected by Vikings. I can not identify, how I know all this, I could suspect even the blood memory but well, some of the persons are alive. How hard it would be to turn of the old echoes - the skies and the heavens would yell some Viking melodies, and an angel would look like a Viking; or perhaps, a place would not give flowers before hearing some Viking melodies.
+
+I am personally a Buddhist, and half of my blood is Cossack, near China - while rather Russians, they had to struggle between Russia and China, and to peacefully do that, perhaps a nation would develop even their own Chinese bone, so as in Russia, Zen and Tao have historic importance there. Russian can be christian, but they wont forget the Shamanic roots, and the whole variety of cultures including Arab, near-India, and definitely a whole border of people with Chinese influence - perhaps some borders are simplified, perhaps they just marry with the neighbour, and definitely they buy and sell salt. The rest of my Russian blood is from near the Tzar - where the Tzar tried to bring some modern business talent to their ancient blood of royalhood and near-royalhood. As a Viking, I would just say I have some muscles of a king. The other half is from Estonian island Saaremaa - as you can see from old Viking map, it has the same color with nearby Swedish and Nordic Vikings. From my blood - as a Viking, I would fight with magic (muscular), as a Cossack, I would fight with physics (with Zen, Tao and a mission from Russia - namely a peaceful warrior of Eastern philosophy, as Russia and China are; well the peace in war definitely comes with experience), and as a Bluish blood, I would fight with the Law, and have a Godly guidance or selection. So I integrate all this, and find the peace.
+
+Saying who I am myself, I am as a Buddhist smiling and having some attentionful round corners, ignoring some irritating behaviors; well I'm Viking perhaps you find something more serious as well. So Svava has the Viking cool, a tough look, or "spice" in her eyes, and this funny for me as well - despite I like this. I think she might be a pure Viking - well looks like a Viking woman (and who would not instincively recognize a woman from their own race). 
+
+So, well, I would cook a Viking food and the exercise seems to have enough performance :) 
 
 ## Fighting philosophy
 
