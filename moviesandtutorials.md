@@ -10,7 +10,7 @@ Youtube and other channels let you watch and download free videos. This guide is
 
 **Medieval Music with Female Vocals in Old English – A Journey Through Time**: she sounds like Viking sometimes, and let's you to be calm and meditative without being slow-paced mind. The simplicity, which looks a little childish in some parts, where we have more complex sequences from classics: you can know the basics and perhaps, they had muscle to move that simple without loss of intent.
 
-**The Legend of Bodhidharma： Master of Zen ｜ Mind-Opening Movie [Eng Dub⧸2025 Remaster]**: the scene is chinese symbolic martial art, where each movement refines one essence of Zen: in wuixi, the movement reflects the symbolic changes and might relate to beliefs about saints. For us the mundanes the inspiration would draw into what is an ideal of that movement, where we could develop many possible sequences; while this movie has also an enigma, one which does not solve completely, but provides the physical basis of solution - where one can contemplate about difference between religion and superstition, perhaps.
+**The Legend of Bodhidharma： Master of Zen ｜ Mind-Opening Movie [Eng Dub⧸2025 Remaster]**: the scene is chinese symbolic martial art, where each movement refines one essence of Zen: in wuxia, the movement reflects the symbolic changes and might relate to beliefs about saints. For us the mundanes the inspiration would draw into what is an ideal of that movement, where we could develop many possible sequences; while this movie has also an enigma, one which does not solve completely, but provides the physical basis of solution - where one can contemplate about difference between religion and superstition, perhaps.
 
 ## Length of a movie
 
