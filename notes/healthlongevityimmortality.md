@@ -54,3 +54,20 @@ This is a natural question:
 
 In case we are not *programmed for death*, but it's a consequence of many problems:
 - We achieve that health, longevity and immortality blend so closely into one problem that we cannot seriously solve one, without working on other.
+
+# Materials on Aging
+
+Free books you could download (search for free PDFs):
+
+*Handbook of Theories of Aging - Springer Publishing Company* (Third Edition: **830 pages**).
+
+*Senescence, the last half of life* by Hall, G. Stanley (Granville Stanley), 1844-1924: 556 pages.
+
+You could search for:
+- Aging as pathology.
+
+You could analyze aging, especially each problem of health: as we get over those problems, which remains as cause of death? If it's seen "natural": could it still be seen as some kind of pathology?
+- At the same time, yin: for each hint to *purposeful* aging, such as enabling evolution: how to surrender properly, and also find the solutions where the purpose is met without such sacrifice? Buddhism teaches about this: you should contemplate on each argument of Buddha, where aging is natural. Then - what is the permanence, and where it's natural, and when would you align to this natural cause only if it exists?
+
+It is: a quest to understand aging, each thing which makes us less filled with quality life.
+
