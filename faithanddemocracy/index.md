@@ -1,5 +1,7 @@
 # Faith and Democracy: Tao of the Faith
 
+Each document in this folder will be based on this one, as I generate them with an AI.
+
 I outline here: what is the reason for Honour, the Circumstance of Infinite Flow. What is a Circumstance of the Infinite? Is the ininite in us: mere matter, or ideal - what is localized eternity?
 
 It's how the infinity answers to ethics and spirituality: there is some *meaning*, how points in singularity point to directions in unity.
