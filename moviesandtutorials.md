@@ -12,6 +12,8 @@ Youtube and other channels let you watch and download free videos. This guide is
 
 **The Legend of Bodhidharma： Master of Zen ｜ Mind-Opening Movie [Eng Dub⧸2025 Remaster]**: the scene is chinese symbolic martial art, where each movement refines one essence of Zen: in wuxia, the movement reflects the symbolic changes and might relate to beliefs about saints. For us the mundanes the inspiration would draw into what is an ideal of that movement, where we could develop many possible sequences; while this movie has also an enigma, one which does not solve completely, but provides the physical basis of solution - where one can contemplate about difference between religion and superstition, perhaps.
 
+**A Breath of Release | Somatic Meditation | Guided #Breathwork Meditation**
+
 ## Length of a movie
 
 Tutorials (text analog: manutal, tutorial, article-format useful piece of information):
