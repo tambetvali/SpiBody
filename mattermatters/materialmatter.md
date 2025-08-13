@@ -45,3 +45,52 @@ Spirituality has been practiced for long and here are the practical matters:
 So, our material effort goes to material reality; mental effort to mental reality - within mental realm, we can find more efficient material solution, and if "material laws" are seen as our restrictions in the way of efficiency, we really do optimize them; but to achieve this, in the material realm, we apply the material laws in more enlightened way. For example, to get better fruits, we do not stop planting plants, we do not start dreaming about plants alone, but we plant them better or at all.
 
 So the idea world: it's a very important structure around material world, and it kind of precedes life - these "spiritual" rules start to hold in sense that the chaotic structure is accelerating it's combinatoric speed and growing into harmonic resonance. It's out of Time and Space: from all this oscillation, logic appear, which would hold even if the world is not such.
+
+# The Material Measure Fallacy
+
+Tarot reading, for example, could be our imagination of Magic Act.
+
+In my experience, random chance does not have natural laws on it's own, but the causality of it is able to produce tunnel effects - for example, if you build a simulation of something, random process inside could be randomized to reflect a process, which is best estimated by random function; as the random function is straight, it will produce random results - in case of the cumulative results themselves break the laws, which created this randomizer, not single random values, but the process will change direction to satisfy, again, the rules of right distribution.
+
+Randomness, for example, solves the case if you know the distribution, but do not know any basis for particular cases: randomization function itself, along as it's "general guide" would appear. For example, dimensionality 3R means non-directed dimension worth of three real numbers: to project this to space we sensibly use for calculations, which has three dimensions of dimensionality one R, this means it has three dimensions - we need to choose arbitrary direction or base our direction on some particular values; still, there are general rules to divide three-dimensional space into three separate dimensions.
+
+Tarot reading have this problem of arbitrarity, and the classic example is:
+- Sensitive is ought to create a psychic report about someone: be it about future, personality or problems.
+- They ask questions.
+
+By explanation of sensitive, they need those answers as they see a symbolic space.
+
+We need to understand: senses of a sensitive, and possibilities, are merged to serve a client. This is the practical way. *A sensitive did not hide that they ask these questions*.
+
+Problem is: a psychiater, talent fitter, police officer or personality tester asks questions as well.
+
+We need to base each thing on practical basis - however people *sense their abilities and their reasons*, which could depend on how they are able to model the world, or their basis.
+
+Now, making a magician (physics), alchemist (chemistry) or a shaman (natural object physics) negatively responsible to use only some kind of "hidden means": none of those were developed keeping in mind, that there is another law, and they must not comfort with this - "natural laws", rather, were common human abilities without training, in this sense.
+
+To compare sensitive person and a sensitive in any particular act:
+- They have right to spend the same on questions and any other tools.
+- Their results are measured to verify abilities, in their particular task, by such person, and their explanations about their methods and background could be taken into consideration.
+
+About methods:
+- Having a special skill, such as better ability to discern truth from the lie, is helpful for a sensitive and might be decisive element in choosing a proper work.
+- This special skill does not deny all the other means, but is to be used in combination.
+- Sensitivity and being sensitive about is not such a huge difference: sensitive, while they have certain visualization about their sense work, might not differ from each person - another person, while the association of certain information is not reminding a direct sense so much, but rather an association or actual thinking; at the same time, it might process similar data.
+
+The fallacy, which is actual here:
+- It was assumed that this must be not normal source of information, such that none of them can be confirmed or guessed with high probability.
+- This assumption is false, because how the Mind is processing information: either subconsciously or consciously. Both have advantages - subconscious or blind conscious process is sometimes able to be aware of more information, while conscious can be more scientific. They both can be developed, where the difference can be more ambivalent.
+
+Rather than assuming the high success rate expectation *with no factual basis* we can see that the factual basis in different models is different, and it's rather the "mathematical synchronicity", which provides us different causation chains and laws accross different models, while the models can be used simultaneously.
+
+For example, the use of willpower to achieve something, and mental power to resolve it, as Magician calls their process: while this seems to be mental and should not have material basis, why it's called mental and magical, of idea realm: is not that it's not using the material basis to create a machine, but rather that without mental basis and willpower, the material basis could be useless. For example, a peasant is able to use material basis to build a computer - despite an engineer is using material basis as well, the emergent property, which makes them able to do this is rather mental and intellectual, than distinction in this materialness. Very often we see each person is able to move their legs and hands, and they need it in each activity, or almost all - but still, they are enabled or disabled to do certain works rather by their mental capabilities.
+- A magician, definitely, is watching about their successes in this mental world - the body, naturally, obeys the mind and one cannot be sure that they cannot change their mind in such way that body starts to move differently. On material level, even it might not be trivial, why one cooking is going to succeed and another not: cooking is not magic, but such incidence rather turns it into one.
+
+We see the "Mind over Matter" principle - when it's true that we sometimes have such experiences, it's even more true, and good solid basement for argumentation, that Mind is a catalyst, and as such, using the Mind rather than sole Instinct was the capability, which, in first place, created much of awe.
+
+In this, we must see that the mental model with it's symbols and metaphors is absolutely important to understand, and to see how it directly operates: while it indirectly operates, but to speak about it in it's own terms, we already achieve a language indistinguishable from that of Magician:
+- This is the second matter, how such process is accelerated or becomes more instant; it's also not straightforward, but it provides both relative measures and actual occasions. For example, a "magic or miracle of one unexpectedly getting a right gift, coming from pure intent in the pure heart" - the "magic" appears from lack of direct causation - one did not work for this very clearly, nor ask, and perhaps even did not know about the thing before, such as getting a new advice. We do not see such trivial material basis, but the thing still happens - magicians, typically, say "it's important to see magic in small things".
+
+Who is absolute Master of Magic: indeed they surprise us with minimalism of physical requirements for an achievement, or how it merges in such a way that while physical input is still quite straightforward and in about the same scope of effort, so there is no *added physical effort*, there are *added results*. This, indeed: can be building a machine. More often than not, if the art in the book is called *Magic*, they do *build* something and require both certain input from nature, books, buildings and certain efforts; example is the Egiptian Fire - built by priests, this fire was very capable to destroy ships; how it "overcome the natural law" was that people *could not* get such fire trivially.
+
+While in science, the skills became more publicly available and easier to learn - this does not disable the knowledge of capability of magical theory; talking about ideas and realities like Platon: this was a way for real-world sufficiency.
