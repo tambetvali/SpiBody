@@ -8,6 +8,8 @@ Because this is morning, this is if you want some morning exercise from Shaolin:
 
 - **The 12 Somatic Knots of Trauma — The Complete Map from Sacrum to Jaw (and How to Untie Them)**
 
+- **Kundalini Yoga Set： Awakening to Your Ten Bodies ｜ KIMILLA**
+
 **MEDIEVAL MUSIC – Let These Ancient Melodies Transport You!**
 
 **Nordic Shamanic Drum Music ｜ Deep Relaxation & Viking Ambience**
