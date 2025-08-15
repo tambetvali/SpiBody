@@ -1,8 +1,15 @@
 # Somatic Meditation
 
+Videos/YouTube..
+- **✨ Powerful Norse Chants for Healing, Protection & Good Fortune 🍀 (Viking Spells with Lyrics)**
+- **NORDIC Shamanic Medicine Woman Music - Healing Relaxing Music With Atmospheric Female Vocal**
+- **Meditativ Nordic Tribe Music for Spiritual Healing Body and Mind - Relaxing & Calming Shamanic Drum**
+
 We find this book of Traditional Method of a Buddhist: remember I am a Buddhist, and my Taoist method might presume advancements in forms of Buddhist meditation.
 
 # The Book
+
+Easy introduction: **Safely Connect with your Body Somatic Meditation ｜ Mindful Movement** (a video)
 
 It's a free book, like most of books here: I try to find free and licenced books, and if their status would change, we would need to find books with similar coverage and topics as those are essential here.
 

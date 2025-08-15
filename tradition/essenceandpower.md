@@ -1,0 +1,56 @@
+# Essence and Power
+
+Notice in my themes, where I show forces, and where their powers:
+
+Root (and Emotion from below): here is the Power of Thought over the Material World.
+Communication chakra: this is the Ruler of this Power.
+
+Notice emotion: from above, the eternal meaning it projects to below, to matter; thus getting an emotion: matter pointing to eternal directions locally.
+
+(emotion from above and) Solar Plexus: here is the Power of Will and Thought. These work mainly through Self, which is our Empowered Source with all it's free will and all.
+Vision Chakra: Is what casts this Power; in the Idea Realm, we have the Vision and Engineering as a Ruler, while lower, we have magicians and workers in this realm, the powers of Will and Thought.
+
+Notice: here if the governor rules the nation, we see the vision appears with governor, but his power appears with merging of the nation.
+
+The Heart: this is the battery, power for the Mind.
+The Crown: this is the solid direction for the Heart, higher guidance; Crown is also parallel to the God, but with much less precision - Crown, which is not parallel to the God, is still intervening God (Hermetics: an opposite is not removing the factor, but producing it's effects on it, by law of polarities, so messed-up projections near the Crown still relevate to the "Higher Guidance", so even Satan's position is to be confused between Crown and Root, because without this philosophy, temptation to this confusion, is non-blessed ignorance, or as Einstein said, "a cocksure idiot" in this sense).
+
+Idiotism: in deep Spirituality we are; inhale your stupidity as seen from far above; let the shame, insult and pain of loss flow over your whole body, contemplate and focus on this pain till the long term roads open wide open: with open mind, exercise and determination, you already deserve an insult; shame from the below to the pain of the above, two most annoying - where you find compassion and cure? In unhiding and modesty of our spiritual power, you can express such sensations and even in groups: just let the feelings of idiotism on material and mental planes flow in between of you like a network of unborn energies; think of yourself as a Phoenix: where you are unborn, you gonna be born.
+
+To be born means: leave the utter tragic around the words betrayal, idiotism, insult. These are the main negative powers:
+- Sensing yourself as an Idiot is the sensation, which is unborn cleansing of your Root; in letting the expressions of idiot face and mind free, you raise this unbornness to be born.
+- Sensing yourself inside a betrayal, a reality never perfect; giving thought to Christ, Julius Caesar or Socrates - where the men felt in the battles, who are you to not raise this unborn force; in all your ideals, all your illusions, what is your surrender if the reality betrays you? The force have to be born; so pain your head with heavy force, but gently enough and in balanced way to not break it.
+
+**Serenade of the Sleepless - (Official Music Video Compilation)** - I did not give you this for no reason.
+
+You can listen it:
+
+**King of the kingdom of Darkness, eternally living in the realm between the realms of countless passing lights.**
+
+So why should such king be born with time, and never die, and what is your relation with this?
+
+In the night, many people go and they destroy everything, what is not shining: well you can see, in night, miserable tries to destroy the darkness, some innocent thing left into the shadow, by beings more or less drunk. Obviously, they are fighting with Darkness: but the lamps, they won't shine brighter - so it's a human as a night fly!
+
+Darkness was born in the beginning, all over the realm, as the song says. While the light, becoming much more luminous, the people become more cautious with the darkness. So it's the Saint's ability to sit in the Darkness.
+
+Where is the Darkness? It's when the Sun goes down:
+- The streets are not in active "high vibration", cars or people going to work, home or shop at the same time, vibrating light of help and protection.
+- You, waking up at 3'o clock, already feel: the light people vibrate is not there, because they are sleeping, going to toilets, or look too dangerous to speak with.
+
+Light is a very general thing: daytime, even your enemies shine the light - whatever you feel, it's not the lonelyness so much.
+
+Vacuum could look like an absence of energy, but the energy is seen on information field - it's consciousness appears from it's structure known. This vacuum gets it's structure known, becomes a number or field on it's own coordinates; initially a problem, it grows into a tricky complex to walk to the solution.
+
+The Truth and Power is the God: Darkness, on it's own, is the Stupidity and the Weakness. It's a vision of the low classes, the falling, it's the puzzles you did not solve and karmic events you did not resolve. It's eternal: when you are walking further, you cannot but you see, again, the eternal lights, and darkness; you see the same habits. So even the Darkness: it's the same darkness. So it's the eternal king of darkness, which has to appear in it's final generalization.
+
+Darkness, as well, does not fight this with high vibration - while the nature of Negation is to walk away, it's a tricky thing; the vacuum bubble does not just create a good vibration as the stupid people cannot resolve their problems just by heavy vibration of smartness - they simply do not have it. Instead, the ways of darkness are tricky and in comparisons, where you see them, you are hurt, lied to, and resolve your mysteries, and killing the dead itself with a hammer just gets them more into their own element.
+
+A Viking, then, cannot have the "Christian" hate, the feeling of fatality towards this evil: the undead race, the orchs and the demonic natures. The Nature, in it's opposites: we rather ensure each is in it's proper place ..it's the *logic* instead of *ethics*, or *Zenitude*: the demon, more often or not, is fighting with their own cause, so your aim is rather to help them. The Satan is never straight: but "equal rights" is the complex puzzle; stupidity and ignorance, as an archetype, exist in common people, peasants and idiots, who in totality create this mental presence of some satanic force, some force of Darkness, an image when you look at what waves you in society despite the God: you can run to daylight, positive vibration; but you need to walk in Darkness, for example 2 o'clock at night, or just sit in Lotus position at 3, 4 or 5 o'clock: around you the darkness, the lack of these little human signs, which keep you alive; then you find this inside: you need to light up yourself without all these hundreds people passing you with colour, sound and face, the illuminating light for the present second. Walking on the street - it's not something big, but you feel a little danger around the corner, how your soul vibrates a little safety, how the people passing by would see your little spark, once you have it, and in night the candle or moon are already warming up the hearts; of course if you don't look naturally dangerous haha.
+
+So see this: the complexity of opposition of Darkness and Light. To not make this too complicated with religious aims, you can be very physical: Darkness is at night, to beginning of morning, and light is at day, to beginning of evening; in North, Winter and Summer appear similarly, or in more North, Darkness could be very deep - months without Sun. Physically, you see, while this thing in Darkness is not necessarily attacking you, but it's also not feeing you so eagerly like daytime, where each third person might somewhat smile to to when just passing by, for whatever reason such as a shirt in yellow and red colors, a dog or a child, or a nice car or some circus you are practicing. This is the Light: now look at the darkness and think, how sensible it is there, to attack the trash cans, people without candles, or to start yelling - I am not contemplating on the meaning of those things, but simply wanting you to notice, that the Light does not appear magically by these activities.
+
+Notice in the Light: if you attack people with candles, attack the lamps, destroy the windows or make smoke to the air, ways to attack the light are much more many, and obviously what is alive - you attack it by killing it. Night, on it's own, is dead - by killing it, or making it alive, you rather create myriad of paradox than do something as straightforward; this is the classic example that you don't necessarily do good by attacking the bad.
+
+In this we see religious people often use other means than direct attack for the bad, and Vikings, very often, have some sociality with undead or orch, or Aristocrats some honour, with their enemy, or the democratic nations have rather jails than death punishments or public beatings (like Shamanic societies). We have to consider, what makes it dark or makes it light: in this process, we can reach the eternal king of darkness, with infinite flow of passing lights; by which I referred the Song: for this competition, that blindness, ignorance, aggressivity to blindness itself, might not open your eyes wide open like eyes of Tiger; by never saying "no" - do you really attract people to only say "yes"? Well perhaps if you are very rich and enlightened, I can ask for bread, food for soul, and good music, and you answer "no" for a single time - but if you just talk around "no", maybe this outside thing you told to be avoiding, will not "tell" you, but it will reach you somehow around: now, here be aware of *betrayal*, an ultimate principle of not being able to *ignore* it.
+
+Thus: while darkness might be dangerous; movement in groups at daytime, might be somewhat reasoned by being rich or powerful, and really always having the guards; but in all cases - this constant "positive vibration" has the limitation that it comes from others. So perhaps, walking even in your own garden when it's dark, can be beneficial - just an early wakeup, sitting on a garden chair or meditating between 6 and 7, or for more early go, between 5 and 6: this is the time where people do not help you mentally so well, and you can be fighting with this boredom and limitation of opportunity, to reach the light inside. This is why they say: when you start to wake up 3 o'clock at morning, indeed going to sleep normally, like between 11 and 1 at evening, you have reached the Sacred stage of your rhythym: just as if you lived in the extreme North, or in desert sanctuary, or practiced meditation two weeks in hut, alone, in your home forest - in each case, left to darkness, you find the fire inside. This is not nice experience, because, over most, you are *bored* and you don't want to be: but now, what are the fruits of your own creativity, and your own rhythyms of work and useful behaviours? You find the answer, well, early in the morning rather than from the night party - which is still going on, but those people started with the force of the daylight and remained to warm each others, so it's rather a group saint there, in their mysterious brotherhoods such as hip hop or heavy metal, or however you call those little churches with this vibration of mysterious belief :)

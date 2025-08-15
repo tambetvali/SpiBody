@@ -1,5 +1,9 @@
 # Some more Videos
 
+Intro:
+- **Arcturian 887**
+- **Arcturian in Atlantida – Sacred Lemurian Healing Frequencies & Light Codes**
+
 Notice that this folder, while I call it "Viking tradition", is mostly about myself - some Viking music and some music I listen anyway.
 
 Because this is morning, this is if you want some morning exercise from Shaolin:
