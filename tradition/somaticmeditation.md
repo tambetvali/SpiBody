@@ -7,6 +7,8 @@ Videos/YouTube..
 
 We find this book of Traditional Method of a Buddhist: remember I am a Buddhist, and my Taoist method might presume advancements in forms of Buddhist meditation.
 
+This is a good guided meditation for Somatic Methods: **A Breath of Release ｜ Somatic Meditation ｜ Guided #Breathwork Meditation** - for me the visualizations are very important.
+
 # The Book
 
 Easy introduction: **Safely Connect with your Body Somatic Meditation ｜ Mindful Movement** (a video)

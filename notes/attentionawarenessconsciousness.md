@@ -1,5 +1,7 @@
 Notice: to make your thinking more free, I do not use same definitions in each text, rather I give definitions as needed to cover the fractal of theories (multiparadigm).
 
+**👑 Crown Chakra Activation & Pineal Awakening ｜ 963 Hz Arcturian Light Codes ✨🌌** - this video might remind you of being whole.
+
 # Attention
 
 Attention is the scope you are currently able to use to solve your questions.

@@ -1,5 +1,7 @@
 # Mundanity of Attention
 
+**Elven Viking Ice Chant** - a Song of the Natural Elements; physics or magic?
+
 Attention, our holy vehicle of Mind, is a key system for alignating ourselves to reality. Visualization, then, is mere creation of artificial models of reality - a tool to create a vague imagination there, where the real awareness will shine.
 
 Attention, then, is seen as a miracle or a mystical force to guide us, a Godly power: with this, it might not be visibe that attention is natural to us, inborn, and part of ordinary human abilities.
