@@ -1,3 +1,7 @@
+Websites for this information:
+- [Website for information on this site](https://laegna-spibody-path.lovable.app/) - simplified, collected.
+- [Website for my whole method, from Material Meditation to Somatic Awakening](https://soma-material-path.lovable.app/) - each in a few steps.
+
 In this repository, I contain some spiritual hints for physical training. Initially, I have a very short texts.
 
 Goals for training:
