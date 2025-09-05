@@ -1,4 +1,5 @@
 Websites for this information:
+- [Report from Gamma.app: an overview](https://spibody-the-bodymind-som-1a9nedu.gamma.site/)
 - [Website for information on this site](https://laegna-spibody-path.lovable.app/) - simplified, collected.
 - [Website for my whole method, from Material Meditation to Somatic Awakening](https://soma-material-path.lovable.app/) - each in a few steps.
 
