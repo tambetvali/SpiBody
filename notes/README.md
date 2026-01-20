@@ -56,6 +56,16 @@ These writings broaden the physical domain into the energetic. They suggest that
 
 ---
 
+## **Chakra Science & Functional Models**
+- **[chakrascience.md](chakrascience.md)**  
+  A neutral, integrative explanation of the chakra system as a functional model of human experience.  
+  Describes how chakras can be understood scientifically (as clusters of functions and interoceptive patterns),  
+  symbolically (as experiential maps), and practically (as tools for balancing and monitoring life domains).  
+  Clarifies how the seven‑chakra structure aligns with cognitive limits and why symbolic systems remain useful  
+  even without anatomical correspondence.
+
+---
+
 # 🔵 Mental Domain  
 Once the body is understood as a field of awareness, the notes turn inward. This section explores the mechanics of attention, the nature of intuition, and the shifting landscapes of identity. The tone becomes more introspective, inviting the reader to observe the mind with the same sensitivity cultivated in the body.
 
