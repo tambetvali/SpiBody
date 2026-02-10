@@ -58,8 +58,3 @@ If you are reading this, consider yourself invited. SpiBody is not only my explo
 Spiritual growth is not about escaping the body. It is about deepening into it—realizing that in every cell, every breath, every sensation lies a gateway to something vast and luminous. This is the **true Soma**, the nectar of life, always within reach.
 
 The SpiBody project is one offering along this path, a **seed of a greater movement**: to bring together science, spirit, and soma in a living philosophy of healing and transformation. May this seed take root in you.
-
----
-
-*Suggested filename:*  
-`SOMA-Spiritual-Growth.md`
