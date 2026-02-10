@@ -1,4 +1,4 @@
-_AI generated version is in [holisticbodyai.md]()_
+_AI generated version is in [holisticbodyai.md](holisticbodyai.md)_
 
 # Training the body with Spiritual Perspective
 
