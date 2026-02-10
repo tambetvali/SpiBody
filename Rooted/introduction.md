@@ -12,8 +12,8 @@ At the heart of this method lies **Somatic Meditation** — the direct practice 
 
 In parallel to Buddhist methods and Zen simplicity, this meditation studies not just stillness, but *attentive presence in the body*. It aligns with the ancient European folk beliefs in **healing hands** and **energy fields**, offering a bridge between ancient intuition and embodied mindfulness.
 
-> 🔗 See: [notes/attentionawarenessconsciousness.md](notes/attentionawarenessconsciousness.md)  
-> 🔗 See: [notes/bodyintolife.md](notes/bodyintolife.md)
+> 🔗 See: [notes/attentionawarenessconsciousness.md](../notes/attentionawarenessconsciousness.md)  
+> 🔗 See: [notes/bodyintolife.md](../notes/bodyintolife.md)
 
 ---
 
@@ -25,9 +25,9 @@ By pushing the boundaries slowly over time (days, years, decades), we build phys
 
 This approach heals, balances, and gradually dissolves mental fatigue and physical illness through body-mind unity.
 
-> 🔗 See: [holisticbody.md](holisticbody.md)  
-> 🔗 See: [healthandrecovery.md](healthandrecovery.md)  
-> 🔗 See: [notes/disabledexercise.md](notes/disabledexercise.md)
+> 🔗 See: [holisticbody.md](Central/holisticbody.md)  
+> 🔗 See: [healthandrecovery.md](Central/healthandrecovery.md)  
+> 🔗 See: [notes/disabledexercise.md](../notes/disabledexercise.md)
 
 ---
 
@@ -37,5 +37,5 @@ This project is not only spiritual but practical. It does not depend on belief i
 
 Through somatic depth and soft discipline, we slowly rediscover how *mind and body are not two*.
 
-> 🔗 See also: [collectiveholisticbody.md](collectiveholisticbody.md)  
+> 🔗 See also: [collectiveholisticbody.md](Central/collectiveholisticbody.md)  
 > 🔗 Inspiration: *The Awakening Body* by Reginald A. Ray
