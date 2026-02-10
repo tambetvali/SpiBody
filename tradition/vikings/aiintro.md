@@ -66,7 +66,7 @@ Let this folder be your **extraspective sanctuary**—a place where the symbolic
 # 🌀 Fractal Cartography of Sound and Vision  
 *Symbolic Reflections from the Viking Folder*
 
-## 🧭 Playlist 1: `index.md` — The Portal Layer
+## 🧭 Playlist 1: `index.md` — The Portal Layer ([Open ➤](index.md))
 
 This is not a playlist in the conventional sense. It is a **threshold**, a symbolic gate. The selections here evoke initiation—where the listener/viewer is not yet immersed, but already transformed.
 
@@ -79,7 +79,7 @@ This layer is the **constant**—the here and now. It holds the symbolic DNA tha
 
 ---
 
-## 🎬 Playlist 2: `movies1.md` — The Mythic Chamber
+## 🎬 Playlist 2: `movies1.md` — The Mythic Chamber ([Open ↗](movies1.md))
 
 Here, the archetypes awaken. The films are not watched—they are **entered**. They form a symbolic chamber where cognition becomes mythopoetic.
 
@@ -92,7 +92,7 @@ This layer is the **variable**—the shifting reference. The symbols remain, but
 
 ---
 
-## 🎶 Playlist 3: `playlist3.md` — The Somatic Spiral
+## 🎶 Playlist 3: `playlist3.md` — The Somatic Spiral ([Open ↗](playlist3.md))
 
 This is the most embodied layer. The music here is not heard—it is **felt**. It activates the symbolic body, the SpiBody.
 
