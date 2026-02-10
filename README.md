@@ -1,5 +1,7 @@
 # SpiBody — Introduction
 
+*Or jump to the [Old Introduction](https://github.com/tambetvali/SpiBody/tree/main/Rooted/Central)*.
+
 SpiBody begins in the movements you already make: the way you stand when waiting, the way you reach for something, the way your weight shifts when you turn.  
 Training here grows inside everyday actions until the whole body becomes more coordinated, more responsive, and more capable.  
 You don’t need to prepare or understand everything in advance — you can start anywhere, and the body will meet you halfway.  
