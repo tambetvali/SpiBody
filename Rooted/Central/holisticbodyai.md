@@ -1,4 +1,4 @@
-_This version is written by AI based on holisticbody.md_
+_This version is written by AI based on [holisticbody.md](holisticbody.md)_
 
 # 🧘 Training the Body Through a Spiritual Lens
 
