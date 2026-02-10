@@ -6,9 +6,9 @@ You don’t need to prepare or understand everything in advance — you can star
 If you want a first sense of the landscape — the tone, the direction, the feeling — these three sites give you a broad view before you step into the deeper materials.  
 They show how movement becomes clarity, how strength grows from softness, and how everyday actions become training.
 
-- [**Gamma Overview — “Report from Gamma.app”**](https://spibody-the-bodymind-som-1a9nedu.gamma.site/)  
-- [**Simplified Overview — “SpiBody Path”**](https://laegna-spibody-path.lovable.app/)  
-- [**Full Method Map — “Material Meditation → Somatic Awakening”**](https://soma-material-path.lovable.app/)
+- [🌐 **Gamma Overview — “Report from Gamma.app”**](https://spibody-the-bodymind-som-1a9nedu.gamma.site/)  
+- [🧭 **Simplified Overview — “SpiBody Path”**](https://laegna-spibody-path.lovable.app/)  
+- [🕸 **Full Method Map — “Material Meditation → Somatic Awakening”**](https://soma-material-path.lovable.app/)
 
 ---
 
@@ -21,9 +21,9 @@ These are the six core texts of SpiBody.
 ## Holistic Body — Text 1
 
 > ### **Whole‑Body Coordination & Natural Strength**  
-> **Default version:** [Rooted/Central/holisticbody.md](Rooted/Central/holisticbody.md)  
+> **Default version:** [🦴 Rooted/Central/holisticbody.md](Rooted/Central/holisticbody.md)  
 > → A grounded, experiential description of whole-body training: how to sense the body as one piece, how to let movement flow through multiple layers, and how to build strength through coordination rather than strain.  
-> - **AI version:** [Rooted/Central/holisticbodyai.md](Rooted/Central/holisticbodyai.md)  
+> - **AI version:** [🧠 Rooted/Central/holisticbodyai.md](Rooted/Central/holisticbodyai.md)  
 >   → A compact, structured restatement of the same principles, highlighting steps and patterns for quick application.
 
 This is the heart of SpiBody: how the whole body acts as one system, how movement distributes itself, and how strength appears when effort stops fighting itself.  
@@ -37,15 +37,15 @@ If you want to understand the method through direct physical experience, this is
 ## Health, Recovery & Collective Body — Text 2
 
 > ### **Recovery Through Movement & Rebalancing**  
-> **Default version (AI):** [Rooted/Central/healthandrecoveryai.md](Rooted/Central/healthandrecoveryai.md)  
+> **Default version (AI):** [💧 Rooted/Central/healthandrecoveryai.md](Rooted/Central/healthandrecoveryai.md)  
 > → A step-by-step view of recovery as a physical process: how to support healing through movement, how to reduce unnecessary tension, and how to rebuild strength with minimal strain.  
-> - **Original version:** [Rooted/Central/healthandrecovery.md](Rooted/Central/healthandrecovery.md)  
+> - **Original version:** [🌱 Rooted/Central/healthandrecovery.md](Rooted/Central/healthandrecovery.md)  
 >  → A more intuitive, experiential look at how health grows from everyday actions, rest, and the body’s natural ability to reorganize itself.
 
 > ### **Shared Fields & Collective Somatic Dynamics**  
-> **Default version (AI):** [Rooted/Central/collectiveholisticbodyai.md](Rooted/Central/collectiveholisticbodyai.md)  
+> **Default version (AI):** [🔗 Rooted/Central/collectiveholisticbodyai.md](Rooted/Central/collectiveholisticbodyai.md)  
 > → A structured exploration of collective somatic fields: how group dynamics shape movement, how shared rhythms emerge, and how training can extend beyond the individual.  
-> - **Original version:** [Rooted/Central/collectiveholisticbody.md](Rooted/Central/collectiveholisticbody.md)  
+> - **Original version:** [🤝 Rooted/Central/collectiveholisticbody.md](Rooted/Central/collectiveholisticbody.md)  
 >  → A more fluid, impression-based description of collective movement, written from lived experience and experimentation.
 
 Training and recovery are not opposites here — they are two sides of the same process.  
@@ -97,27 +97,27 @@ They are good for quick reading followed by immediate physical testing.
 Each summary below tells you what you’ll find inside.
 
 > **AI Overview of SpiBody**  
-> [Rooted/aioverview.md](Rooted/aioverview.md)  
+> [🧭 Rooted/aioverview.md](Rooted/aioverview.md)  
 > → A concise AI-written overview of SpiBody’s main themes, giving a fast orientation before deeper reading.
 
 - **Short Introduction** → A brief entry point into the method, written to be read quickly before moving.  
-  [Rooted/introduction.md](Rooted/introduction.md)  
+  [🚪 Rooted/introduction.md](Rooted/introduction.md)  
 
 - **Outline & Facts (AI)** → A factual, bullet-point outline of the method’s key elements.  
-  [Rooted/outlineandfactsbyai.md](Rooted/outlineandfactsbyai.md)  
+  [📌 Rooted/outlineandfactsbyai.md](Rooted/outlineandfactsbyai.md)  
 
 > **Orientation Map**  
-> [Rooted/airootfolder.md](Rooted/airootfolder.md)  
+> [🗺 Rooted/airootfolder.md](Rooted/airootfolder.md)  
 > → A short framing of how the different materials relate to each other in practice.
 
 - **Awakening the Soma** → A look at how somatic awareness “switches on” and becomes a guide in training.  
-  [Rooted/awakeningthesoma.md](Rooted/awakeningthesoma.md)  
+  [🔥 Rooted/awakeningthesoma.md](Rooted/awakeningthesoma.md)  
 
 - **Material Third Eye** → A bridge between physical sensation and subtle perception, using the idea of a “material third eye.”  
-  [Rooted/materialthirdeye.md](Rooted/materialthirdeye.md)  
+  [👁 Rooted/materialthirdeye.md](Rooted/materialthirdeye.md)  
 
 - **Soma Theory** → A conceptual sketch of the somatic principles behind SpiBody.  
-  [Rooted/somatheory.md](Rooted/somatheory.md)  
+  [🧩 Rooted/somatheory.md](Rooted/somatheory.md)  
 
 ---
 
@@ -128,25 +128,25 @@ They are short, exploratory, and good for readers who like to understand the bac
 Here are **7–10 selected notes** that introduce the main themes without overwhelming the reader:
 
 - **Awareness & Sensation** → Notes on how awareness develops through movement and how sensation becomes more detailed over time.  
-  [notes/awareness.md](notes/awareness.md)  
+  [👂 notes/awareness.md](notes/awareness.md)  
 
 - **Balance & Stability** → Reflections on balance as a shifting, dynamic process rather than a fixed position.  
-  [notes/balance.md](notes/balance.md)  
+  [⚖ notes/balance.md](notes/balance.md)  
 
 - **Body Layers** → A look at how different layers of the body interact during training.  
-  [notes/bodylayers.md](notes/bodylayers.md)  
+  [🧱 notes/bodylayers.md](notes/bodylayers.md)  
 
 - **Energy Flow** → Thoughts on how movement influences internal flow and vitality.  
-  [notes/energyflow.md](notes/energyflow.md)  
+  [💧 notes/energyflow.md](notes/energyflow.md)  
 
 - **Learning Process** → Notes on how the body learns through repetition, variation, and attention.  
-  [notes/learningprocess.md](notes/learningprocess.md)  
+  [🧪 notes/learningprocess.md](notes/learningprocess.md)  
 
 - **Movement Patterns** → Observations on recurring patterns in everyday movement.  
-  [notes/movementpatterns.md](notes/movementpatterns.md)  
+  [🔁 notes/movementpatterns.md](notes/movementpatterns.md)  
 
 - **Strength Development** → Notes on how strength grows from coordination rather than force.  
-  [notes/strengthdevelopment.md](notes/strengthdevelopment.md)  
+  [🏋 notes/strengthdevelopment.md](notes/strengthdevelopment.md)  
 
 ---
 
@@ -157,23 +157,23 @@ These materials are companions to the practice — not instructions, but sources
 ## Music
 
 > **Core Music Selection**  
-> [ReferencesBooksAndMovies/music.md](ReferencesBooksAndMovies/music.md)  
+> [🎵 ReferencesBooksAndMovies/music.md](ReferencesBooksAndMovies/music.md)  
 > → A small but central selection of music that matches the pacing, mood, and internal rhythm of SpiBody. These pieces are chosen not for genre but for how they support attention, movement, and the sense of internal space. They can be used during training, rest, or reflection, and often reveal new layers when listened to repeatedly.
 
 ### Additional Music
 
 - **Somatic Music Notes** → Notes on music connected to somatic traditions, with names and directions rather than playlists.  
-  [tradition/somaticmusic.md](tradition/somaticmusic.md)  
+  [🎼 tradition/somaticmusic.md](tradition/somaticmusic.md)  
 
 - **Vikings — Personal Music Notes (AI Intro)** → A short AI-written introduction to a personal music-related folder, hinting at atmosphere and themes rather than giving a playlist.  
-  [vikings/aiintro.md](vikings/aiintro.md)  
+  [🪓 vikings/aiintro.md](vikings/aiintro.md)  
 
 ---
 
 ## Movies & Tutorials
 
 > **Movies & Tutorials**  
-> [ReferencesBooksAndMovies/moviesandtutorials.md](ReferencesBooksAndMovies/moviesandtutorials.md)  
+> [🎬 ReferencesBooksAndMovies/moviesandtutorials.md](ReferencesBooksAndMovies/moviesandtutorials.md)  
 > → A selection of films and tutorials that echo the themes of movement, presence, and embodied learning.
 
 ---
@@ -181,15 +181,15 @@ These materials are companions to the practice — not instructions, but sources
 ## Books & Authors
 
 > **Reading Books & Authors**  
-> [ReferencesBooksAndMovies/readingbooksandauthors.md](ReferencesBooksAndMovies/readingbooksandauthors.md)  
+> [📚 ReferencesBooksAndMovies/readingbooksandauthors.md](ReferencesBooksAndMovies/readingbooksandauthors.md)  
 > → A curated list of authors and books that resonate with the spirit of SpiBody, offering deeper reading paths.
 
 ### Related Book Notes
 
-- [notes/books.md](notes/books.md) → alchemy, shamanism / from times when people were strong, standing firm in muscle but not yet in soul  
-- [notes/books2.md](notes/books2.md) → set of more advanced books  
-- [notes/canonoftao.md](notes/canonoftao.md) → Taoist Canon: classical, authoritative book list which is considered to be central tenets  
-- [tradition/somaticmeditation.md](tradition/somaticmeditation.md) → Somatic Meditation, rather buddhist, is what I *mean*, but not yet on my level of provable philosophy - this is possibly the practice to follow once you got the proofs, for you  
+- [📖 notes/books.md](notes/books.md) → alchemy, shamanism / from times when people were strong, standing firm in muscle but not yet in soul  
+- [📖 notes/books2.md](notes/books2.md) → set of more advanced books  
+- [📖 notes/canonoftao.md](notes/canonoftao.md) → Taoist Canon: classical, authoritative book list which is considered to be central tenets  
+- [📖 tradition/somaticmeditation.md](tradition/somaticmeditation.md) → Somatic Meditation, rather buddhist, is what I *mean*, but not yet on my level of provable philosophy - this is possibly the practice to follow once you got the proofs, for you  
 
 ---
 
