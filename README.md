@@ -123,6 +123,83 @@ Each summary below tells you what you’ll find inside.
 
 ---
 
+## Chakra & Element Map — Cheat Sheet 1
+
+> ### **Agnostic Map of Elements, Chakras & Cultural Patterns**  
+> **Main version:** [🌐 spireason.neocities.org/elementchakra.html](https://spireason.neocities.org/elementchakra.html)  
+> → A unified map of the seven chakras and the eight elements, showing how different cultures, sciences, and symbolic systems describe the same underlying patterns.  
+> - **Yang‑focused version:** [🜁 spireason.neocities.org/elementchakrayang](https://spireason.neocities.org/elementchakrayang)  
+>   → A compact view of the upper centers and the structural elements, emphasizing clarity, cognition, and the scientific side of symbolic systems.
+
+This map is a **cheat sheet** for the symbolic language used throughout SpiBody.  
+It gathers references from **cultures, religions, sciences, and embodied traditions**, placing them side by side without forcing them into a single doctrine.  
+The goal is not to replace chemistry with “elements,” nor to treat chakras as literal organs, but to show how humans across time have described **the same functional patterns** in different ways.
+
+The approach is **agnostic**: it tolerates faith and skepticism, spirituality and materialism, intuition and science.  
+It assumes that life has *spirit* and *spirits*, and that the universe has *matter* and *structure* — and that these are not opposites.  
+If your spirituality denies matter, or your science denies life, you are simply looking at one box inside a much larger toy‑box.  
+SpiBody studies several of these boxes at once, comparing them without collapsing them, and without diving into the extreme ends of any single tradition.
+
+This text gives you the symbolic vocabulary used later in the method:  
+how the body is mapped, how elements describe patterns of change, and how different traditions converge on similar structures even when their languages differ.
+
+---
+
+## Logic of Life — Cheat Sheet 2
+
+> ### **Good–Bad × True–False: A Four‑Valued Logic of Experience**  
+> **Main version:** [🌐 Spiritual Ponegation](https://spireason.neocities.org/Additional/bizpon.html)  
+> → A symbolic system that unites truth‑value with value‑judgment: not only whether something is *true or false*, but whether it is *good or bad*, *real or illusory*, *life‑supporting or life‑draining*.  
+> - **Tables & Operations:** [📘 Material Ponegation](https://spireason.neocities.org/Additional/Ponegatetables.pdf)  
+>   → Letter‑systems, number‑systems, and logical operations that show why binary logic cannot capture lived experience.
+
+This cheat sheet introduces a **four‑axis logic** built around the letters **I, O, A, E** — the same letters used throughout SpiBody.  
+It shows why classical true/false logic collapses when applied to life, intention, emotion, or meaning.  
+Binary logic can describe reactions, but it cannot describe **goals**, **values**, **inner forces**, or **the difference between a living impulse and a mechanical event**.
+
+This system is the **spiritual logic** of SpiBody — not because it rejects science, but because it restores the parts of experience that science cannot measure directly:  
+the reality of emotion, the presence of intention, the difference between a dream and a delusion, the sense of “good” that cannot be reduced to chemistry.
+
+It explains why life cannot be modeled as mere cause‑and‑effect, why cognition cannot be reduced to nerve impulses, and why meaning cannot be captured by a single truth‑value.  
+Some statements are true but harmful; some are false but life‑preserving; some are real but illusory; some are illusions that reveal deeper truths.  
+This cheat sheet gives you the **logic of lived experience**, the structure behind intuition, ethics, and the subtle forces that shape survival.
+
+It also introduces four material definitions — experiential, temporal, philosophical, and projective — showing how meaning stabilizes over time.  
+These definitions are scientific, but they open the door to the spiritual: they show how life evaluates itself, how systems evolve, and how truth becomes layered rather than binary.
+
+---
+
+## Logic & Measurement — Cheat Sheet 3
+
+> ### **Material Logic, Evolutionary Truth & Projective Meaning**  
+> **Main version:** [📘 Material Ponegation](https://spireason.neocities.org/Additional/Ponegatetables.pdf)  
+> → A compact reference for the mathematical side of the I‑O‑A‑E system: letter‑operations, number‑operations, and the structure of multi‑layered truth.  
+> - **Conceptual version:** [🌐 Spiritual Ponegation](https://spireason.neocities.org/Additional/bizpon.html)  
+>   → A readable explanation of how logic evolves, how meaning stabilizes, and why spiritual and material reasoning use the same symbols but different layers.
+
+This cheat sheet presents the **materialistic half** of the same logic:  
+how truth behaves when measured, tested, evolved, or optimized.  
+It shows how long‑term survival, evolutionary stability, and structural coherence create a kind of “truth” that is not moral or emotional, but **functional**.
+
+Where Cheat Sheet 2 deals with the spiritual and experiential side — the reality of emotion, intention, and value — Cheat Sheet 3 deals with the **scientific side**:  
+how systems survive, how contradictions resolve over time, and how meaning becomes stable through repeated interaction with the world.
+
+It introduces four measurable definitions:
+
+- **Experiential:** truth as direct perception and lived meaning.  
+- **Temporal:** truth as long‑term survival or optimization.  
+- **Philosophical:** truth as layered consistency rather than binary fact.  
+- **Projective:** truth as the final axis toward which earlier axes converge.
+
+These definitions show why spiritual and material reasoning often talk past each other:  
+spiritual systems describe **inner forces**, while scientific systems describe **outer behavior**.  
+But both use the same letters, the same patterns, and the same logic — only at different layers.
+
+This cheat sheet gives you the **mathematical backbone** of the symbolic system:  
+how meaning evolves, how contradictions resolve, and how logic becomes multi‑dimensional when applied to life rather than machines.
+
+---
+
 # Notes
 
 These notes come from the actual `notes/` folder.  
