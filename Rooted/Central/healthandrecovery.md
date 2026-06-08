@@ -1,5 +1,7 @@
 # Health and recovery
 
+This is the original: you can read the [AI Version](healthandrecoveryai.md) or [Full Composition](spibodyai.md).
+
 For long-term training, I have seen the following development:
 - My back pain, which I got as a children spending a day for getting rid of young trees in a building place of the garden, has seemed to recover into a muscle some 30 years later, at age 43. The part in pain needs to be exercised to recover faster - it could remain in pain for years, where only one strong movement is needed to recover it, a moment of energy spent.
 - My ears had chronic pain at winters, also lasting more than 30 years - training of hands and head created, suddenly, much better muscular system in the area of pain, and I got rid of this in sense that open window does not ruin my day any more. I don't know whether it's muscle or organ, but movement of this and the connected parts of the body can be physical and remove the pain.
