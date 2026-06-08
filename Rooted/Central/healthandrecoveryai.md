@@ -1,5 +1,7 @@
 # 🏋️‍♂️ Health & Recovery: Muscles, Mind & The Long Game
 
+This is AI version: you can read the [Original](healthandrecovery.md) or [Full Composition](spibodyai.md).
+
 Recovery isn’t just rest — it's training. Over the course of decades, the body holds memories of pain, trauma, and imbalance. But here’s the twist: those same memories can become **power** with the right training philosophy. 💪🌀
 
 This isn’t just a guide; it's a *journal of resilience*, where body parts once full of pain evolved into new strength through slow, intentional effort.
