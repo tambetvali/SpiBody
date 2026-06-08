@@ -8,6 +8,8 @@ This document unites the core principles from **SpiBody**, **SpiZenTao**, **Laeg
 
 The goal is a **complete, fractal, embodied philosophy** of training, healing, and living.
 
+Original version: [Part 1](healthandrecovery.md), [Part 2](holisticbody.md) and [Part 3](collectiveholisticbody.md).
+
 ---
 
 # 1. 🌍 Foundations: The Holistic Body
