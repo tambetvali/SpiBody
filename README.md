@@ -1,5 +1,7 @@
 # What to read?
 
+Nobody stops you from jumping directly to interactive version of [SpiBody](https://react-9b0l0s.onspace.build/). This is for lazy and curious.
+
 ### Read SpiBodie's central texts to get Rooted and Spirited if you can do it yourself -
 
 ideally, it's a free flow based on your strict intuition and practical consideration, a seed theory rather than any math concerely, altough I tried to give the basic version of this inspiration, also using mine:
