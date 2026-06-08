@@ -1,3 +1,16 @@
+# What to read?
+
+Read SpiBodie's central texts to get Rooted and Spirited if you can do it yourself - ideally, it's a free flow based on your strict intuition and practical consideration, a seed theory rather than any math concerely, altough I tried to give the basic version of this inspiration, also using mine:
+- SpiBody 1A:  [🦴 Rooted/Central/holisticbody.md](Rooted/Central/holisticbody.md).
+- SpiBody 1B: [💧 Rooted/Central/healthandrecoveryai.md](Rooted/Central/healthandrecoveryai.md)
+
+In Zen and Tao, you use Attention and Create! It's a Creation World.
+
+SpiBody 2 — Trivia is the later version, which was trying to achieve even more short, to grow from religion into sport (each initial text follows minimalist rules, and version 2 takes it to the end):
+- [GitHub Doc](https://github.com/tambetvali/SpiZenTao#-tao-spibody-2) - Text + Images
+- [YouWare App](https://eal22hc5nr.youware.app/) - Text + Images + Web App
+- [StickLight App](https://5e8c1ee7-0beb-4654-ba8e-238d405b0b74-qtxqyv.sticklight.app/) - Text + Images + Web App 2
+
 # SpiBody — Introduction
 
 *Or jump to the [Old Introduction](https://github.com/tambetvali/SpiBody/tree/main/Rooted/Central)* or
