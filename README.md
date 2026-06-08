@@ -1,10 +1,13 @@
 # What to read?
 
-Read SpiBodie's central texts to get Rooted and Spirited if you can do it yourself - ideally, it's a free flow based on your strict intuition and practical consideration, a seed theory rather than any math concerely, altough I tried to give the basic version of this inspiration, also using mine:
-- SpiBody 1A:  [🦴 Rooted/Central/holisticbody.md](Rooted/Central/holisticbody.md).
-- SpiBody 1B: [💧 Rooted/Central/healthandrecoveryai.md](Rooted/Central/healthandrecoveryai.md)
+### Read SpiBodie's central texts to get Rooted and Spirited if you can do it yourself -
 
-In Zen and Tao, you use Attention and Create! It's a Creation World.
+ideally, it's a free flow based on your strict intuition and practical consideration, a seed theory rather than any math concerely, altough I tried to give the basic version of this inspiration, also using mine:
+- SpiBody AI: [🌱 SpiBody](Rooted/Central/spibodyai.md) ⇒ Enter ***Y***.
+- SpiBody 1A:  [🦴 Rooted/Central/holisticbody.md](Rooted/Central/holisticbody.md) ↝ ***X***.
+- SpiBody 1B: [💧 Rooted/Central/healthandrecoveryai.md](Rooted/Central/healthandrecoveryai.md) ↝ ***Z***.
+
+### In Zen and Tao, you use Attention and Create! It's a Creation World.
 
 SpiBody 2 — Trivia is the later version, which was trying to achieve even more short, to grow from religion into sport (each initial text follows minimalist rules, and version 2 takes it to the end):
 - [GitHub Doc](https://github.com/tambetvali/SpiZenTao#-tao-spibody-2) - Text + Images
