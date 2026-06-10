@@ -221,30 +221,32 @@ how meaning evolves, how contradictions resolve, and how logic becomes multi‑d
 
 # Notes
 
+You can go to [SpiBody 2 — Trivia](https://eal22hc5nr.youware.app/spibody), and scroll down to Notes, the last section - there, you see not only the icons there, but also a button right next to title to open notes folder (alone) in nice, designed way to browse files and topics of SpiReason - other, smaller folders are easy to navigate manually. If you rather like textual navigation, use [Notes Collection](https://github.com/tambetvali/SpiBody/tree/main/notes#-spibody-notes--thematic-overview) made by CoPilot, where each note is followed by short description.
+
 These notes come from the actual `notes/` folder.  
 They are short, exploratory, and good for readers who like to understand the background, the reasoning, or the subtle aspects behind the practice.  
 Here are **7–10 selected notes** that introduce the main themes without overwhelming the reader:
 
 - **Awareness & Sensation** → Notes on how awareness develops through movement and how sensation becomes more detailed over time.  
-  [👂 notes/awareness.md](notes/awareness.md)  
+  [👂 notes/awareness.md](notes/attentionawarenessconsciousness.md)  
 
 - **Balance & Stability** → Reflections on balance as a shifting, dynamic process rather than a fixed position.  
-  [⚖ notes/balance.md](notes/balance.md)  
+  [⚖ notes/balance.md](notes/theoryofbody.md)  
 
 - **Body Layers** → A look at how different layers of the body interact during training.  
-  [🧱 notes/bodylayers.md](notes/bodylayers.md)  
+  [🧱 notes/bodylayers.md](notes/fivebodies.md)  
 
 - **Energy Flow** → Thoughts on how movement influences internal flow and vitality.  
-  [💧 notes/energyflow.md](notes/energyflow.md)  
+  [💧 notes/energyflow.md](notes/energyacceptancetraining.md)  
 
 - **Learning Process** → Notes on how the body learns through repetition, variation, and attention.  
-  [🧪 notes/learningprocess.md](notes/learningprocess.md)  
+  [🧪 notes/learningprocess.md](notes/creativity.md)  
 
 - **Movement Patterns** → Observations on recurring patterns in everyday movement.  
-  [🔁 notes/movementpatterns.md](notes/movementpatterns.md)  
+  [🔁 notes/movementpatterns.md](notes/inertialtraining.md)  
 
 - **Strength Development** → Notes on how strength grows from coordination rather than force.  
-  [🏋 notes/strengthdevelopment.md](notes/strengthdevelopment.md)  
+  [🏋 notes/strengthdevelopment.md](notes/falsestrength.md)  
 
 ---
 
