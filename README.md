@@ -228,19 +228,19 @@ They are short, exploratory, and good for readers who like to understand the bac
 Here are **7–10 selected notes** that introduce the main themes without overwhelming the reader:
 
 - **Awareness & Sensation** → Notes on how awareness develops through movement and how sensation becomes more detailed over time.  
-  [👂 notes/awareness.md](notes/attentionawarenessconsciousness.md)  
+  [👂 notes/attentionawarenessconsciousness.md](notes/attentionawarenessconsciousness.md)  
 
 - **Balance & Stability** → Reflections on balance as a shifting, dynamic process rather than a fixed position.  
-  [⚖ notes/balance.md](notes/theoryofbody.md)  
+  [⚖ notes/theoryofbody.md](notes/theoryofbody.md)  
 
 - **Body Layers** → A look at how different layers of the body interact during training.  
-  [🧱 notes/bodylayers.md](notes/fivebodies.md)  
+  [🧱 notes/fivebodies.md](notes/fivebodies.md)  
 
 - **Energy Flow** → Thoughts on how movement influences internal flow and vitality.  
-  [💧 notes/energyflow.md](notes/energyacceptancetraining.md)  
+  [💧 notes/energyacceptancetraining.md](notes/energyacceptancetraining.md)  
 
 - **Learning Process** → Notes on how the body learns through repetition, variation, and attention.  
-  [🧪 notes/learningprocess.md](notes/creativity.md)  
+  [🧪 notes/creativity.md](notes/creativity.md)  
 
 - **Movement Patterns** → Observations on recurring patterns in everyday movement.  
   [🔁 notes/movementpatterns.md](notes/inertialtraining.md)  
