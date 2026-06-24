@@ -1,3 +1,5 @@
+![A0_PhysicalDomain](Images1/A0_PhysicalDomain1.jpg)
+
 # 📚 SpiBody Notes — Thematic Overview
 
 The notes in this folder form a wide‑ranging exploration of embodiment, awareness, and the structures that shape human experience. Rather than presenting isolated ideas, they weave together into a living system: one that begins with the physical body, expands into the inner world of attention and intuition, and finally opens into the collective patterns that bind people together.  
