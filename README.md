@@ -311,3 +311,95 @@ You can enter anywhere: through a long central text, a short root, a note on bal
 The common thread is simple: use what you read to adjust how you move, how you stand, how you rest, how you act in ordinary situations.  
 The growth here is physical first — in how your joints cooperate, how your weight travels, how tension appears and dissolves — and only then becomes clearer in thought.  
 Take your time, explore at your own pace, and let the materials meet you where you are.
+
+## 🌱 Tao: SpiBody 2 — Trivia  
+*A fractal continuation of SpiBody’s Freeform practice*
+
+SpiBody 2 extends the Freeform chapter by unfolding the same principles through
+shorter, sharper, more visual entry points.  
+Where SpiBody 1 is the body of the tree, SpiBody 2 is its branching crown:
+quick‑access forms, interactive mirrors, and symbolic micro‑practices.
+
+Each subchapter below links to an external interactive edition or a textual
+expansion. These are not replacements for SpiBody 1 — they are **refractions**:
+compressed, playful, and immediately usable.
+
+---
+
+### 🏠 Home Page (Text Edition)
+
+The textual home of SpiBody 2 lives here:  
+- **SpiZenTao — Tao: SpiBody 2**  
+  **[Open text edition](https://github.com/tambetvali/SpiZenTao#-tao-spibody-2)**  
+
+This page introduces the “Trivia” mode:  
+short forms, symbolic gestures, micro‑koans, and movement cues distilled into
+single lines or diagrams.
+
+---
+
+### 🌐 Website — Interactive Extensions of SpiZenTao
+
+Authorization, cooperation, and canonical mirrors of the interactive sites:  
+https://github.com/tambetvali/SpiZenTao/blob/main/Websites.md#-websites--interactive-extensions-of-spizentao
+
+These links form the **first generation** of SpiBody interactive editions  
+(*not* “SpiBody 1”, simply “SpiBody”):
+
+- **SpiBody Interactive Home**  
+  **[Visit interactive home](https://4ycacx8u7s.youware.app/)**  
+
+- **SpiBody Cheat Sheet** — basics in words + pictures  
+  **[Open cheat sheet](https://embeddable.live/embed/Utg4YGE0tV)**  
+
+---
+
+### 🌀 Interactive Editions (Extended)
+
+These versions expand the same material into different symbolic languages:
+movement‑first, Zen‑Tao hybrid, and visual‑diagrammatic.
+
+- **SpiBody Extended Interactive Home**  
+  **[Open extended home](https://eal22hc5nr.youware.app/spibody)**  
+
+- **Zen+Tao Dragon Style Edition**  
+  **[Open dragon edition](https://5e8c1ee7-0beb-4654-ba8e-238d405b0b74-qtxqyv.sticklight.app/)**  
+
+Each of these will receive its own subchapter with longer summaries.  
+For now, this outline shows the **metastructure** of blocks and names.
+
+---
+
+### 🧭 Structural Placement Under Freeform Practice
+
+SpiBody 2 sits directly under **Freeform**, as its “short‑form fractal”:
+
+- **[Freeform Practice](https://eal22hc5nr.youware.app/332)**  
+  - Micro‑entries  
+  - Symbolic diagrams  
+  - Movement seeds  
+  - Interactive mirrors  
+  - Trivia (SpiBody 2)  
+    - Text home  
+    - Interactive home  
+    - Cheat sheet  
+    - Zen+Tao dragon edition  
+    - Local + global fractal structure
+
+This preserves the recursive logic:  
+**SpiBody 1 → Freeform → SpiBody 2 → compressed SpiBody 1 → expansion**.
+
+---
+
+## 🔮 Conclusion — Principles of Material Magic
+
+SpiBody 2 leads naturally into the metaphysical branches explored in  
+**Principles of Material Magic**, where physical practice meets conceptual
+architecture.
+
+- **Principles of Material Magic**  
+  **[Open Material Magic](https://spireason.neocities.org/AddOns/principlesofmaterialmagic.html)**  
+
+These pages introduce the conclusion of the SpiBody arc:  
+how material metaphysics flows into mind‑body practice, and how practice
+returns to reshape metaphysics.
