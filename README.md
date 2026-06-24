@@ -229,6 +229,8 @@ But both use the same letters, the same patterns, and the same logic — only at
 This cheat sheet gives you the **mathematical backbone** of the symbolic system:  
 how meaning evolves, how contradictions resolve, and how logic becomes multi‑dimensional when applied to life rather than machines.
 
+![Collective Training Infinity Sign](Rooted/Images1/CollectiveTrainingInfinity.jpg)
+
 ---
 
 # Notes
