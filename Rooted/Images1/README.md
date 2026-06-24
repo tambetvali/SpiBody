@@ -184,10 +184,10 @@ Illustrations for the Freeform Chapter (A‑Series)
 # A0 — “Red Dragon: Freedom & Love (SpiBody 1 Seed)”  
 Filename: A0_RedDragon_FreedomLove
 
-**A0_RedDragon_FreedomLove.png**
+**A0_RedDragon_FreedomLove.jpg**
 
 ```
-![A0_RedDragon_FreedomLove](Rooted/Images1/A0_RedDragon_FreedomLove.png)
+![A0_RedDragon_FreedomLove](Rooted/Images1/A0_RedDragon_FreedomLove.jpg)
 ```
 
 ```
@@ -209,12 +209,12 @@ Place immediately under **🜁 Freeform**, before the introductory paragraphs.
 # A1 — “Freeform Field: The Open Center”  
 Filename: A1_FreeformField_OpenCenter
 
-![A1_FreeformField_OpenCenter](A1_FreeformField_OpenCenter.png)
+![A1_FreeformField_OpenCenter](A1_FreeformField_OpenCenter.jpg)
 
-**A1_FreeformField_OpenCenter.png**
+**A1_FreeformField_OpenCenter.jpg**
 
 ```
-![A1_FreeformField_OpenCenter](Rooted/Images1/A1_FreeformField_OpenCenter.png)
+![A1_FreeformField_OpenCenter](Rooted/Images1/A1_FreeformField_OpenCenter.jpg)
 ```
 
 ```
@@ -234,12 +234,12 @@ After the four introductory paragraphs of Freeform.
 # A2 — “Trivia Crown: The Branching of SpiBody 2”  
 Filename: A2_TriviaCrown_SpiBody2
 
-![A2_TriviaCrown_SpiBody2](A2_TriviaCrown_SpiBody2.png)
+![A2_TriviaCrown_SpiBody2](A2_TriviaCrown_SpiBody2.jpg)
 
-**A2_TriviaCrown_SpiBody2.png**
+**A2_TriviaCrown_SpiBody2.jpg**
 
 ```
-![A2_TriviaCrown_SpiBody2](Rooted/Images1/A2_TriviaCrown_SpiBody2.png)
+![A2_TriviaCrown_SpiBody2](Rooted/Images1/A2_TriviaCrown_SpiBody2.jpg)
 ```
 
 ```
@@ -259,12 +259,12 @@ Directly under **🌱 Tao: SpiBody 2 — Trivia**.
 # A3 — “Text Home: The Quiet Gate”  
 Filename: A3_TextHome_QuietGate
 
-![A3_TextHome_QuietGate](A3_TextHome_QuietGate.png)
+![A3_TextHome_QuietGate](A3_TextHome_QuietGate.jpg)
 
-**A3_TextHome_QuietGate.png**
+**A3_TextHome_QuietGate.jpg**
 
 ```
-![A3_TextHome_QuietGate](Rooted/Images1/A3_TextHome_QuietGate.png)
+![A3_TextHome_QuietGate](Rooted/Images1/A3_TextHome_QuietGate.jpg)
 ```
 
 ```
@@ -284,12 +284,12 @@ Under **🏠 Home Page (Text Edition)**.
 # A4 — “Interactive Web: The Network of Mirrors”  
 Filename: A4_InteractiveWeb_MirrorNetwork
 
-![A4_InteractiveWeb_MirrorNetwork](A4_InteractiveWeb_MirrorNetwork.png)
+![A4_InteractiveWeb_MirrorNetwork](A4_InteractiveWeb_MirrorNetwork.jpg)
 
-**A4_InteractiveWeb_MirrorNetwork.png**
+**A4_InteractiveWeb_MirrorNetwork.jpg**
 
 ```
-![A4_InteractiveWeb_MirrorNetwork](Rooted/Images1/A4_InteractiveWeb_MirrorNetwork.png)
+![A4_InteractiveWeb_MirrorNetwork](Rooted/Images1/A4_InteractiveWeb_MirrorNetwork.jpg)
 ```
 
 ```
@@ -308,12 +308,12 @@ Under **🌐 Website — Interactive Extensions of SpiZenTao**.
 # A5 — “Extended Editions: The Spiral of Styles”  
 Filename: A5_ExtendedEditions_SpiralStyles
 
-![A5_ExtendedEditions_SpiralStyles](A5_ExtendedEditions_SpiralStyles.png)
+![A5_ExtendedEditions_SpiralStyles](A5_ExtendedEditions_SpiralStyles.jpg)
 
-**A5_ExtendedEditions_SpiralStyles.png**
+**A5_ExtendedEditions_SpiralStyles.jpg**
 
 ```
-![A5_ExtendedEditions_SpiralStyles](Rooted/Images1/A5_ExtendedEditions_SpiralStyles.png)
+![A5_ExtendedEditions_SpiralStyles](Rooted/Images1/A5_ExtendedEditions_SpiralStyles.jpg)
 ```
 
 ```
@@ -332,12 +332,12 @@ Under **🌀 Interactive Editions (Extended)**.
 # A6 — “Fractal Placement: The Map Within the Map”  
 Filename: A6_FractalPlacement_MapWithinMap
 
-![A6_FractalPlacement_MapWithinMap](A6_FractalPlacement_MapWithinMap.png)
+![A6_FractalPlacement_MapWithinMap](A6_FractalPlacement_MapWithinMap.jpg)
 
-**A6_FractalPlacement_MapWithinMap.png**
+**A6_FractalPlacement_MapWithinMap.jpg**
 
 ```
-![A6_FractalPlacement_MapWithinMap](Rooted/Images1/A6_FractalPlacement_MapWithinMap.png)
+![A6_FractalPlacement_MapWithinMap](Rooted/Images1/A6_FractalPlacement_MapWithinMap.jpg)
 ```
 
 ```
@@ -356,12 +356,12 @@ Under **🧭 Structural Placement Under Freeform Practice**.
 # A7 — “Green Dragon: Natural Flow (SpiBody 2 Completion)”  
 Filename: A7_GreenDragon_NaturalFlow
 
-**A7_GreenDragon_NaturalFlow.png**
+**A7_GreenDragon_NaturalFlow.jpg**
 
-![A7_GreenDragon_NaturalFlow](A7_GreenDragon_NaturalFlow.png)
+![A7_GreenDragon_NaturalFlow](A7_GreenDragon_NaturalFlow.jpg)
 
 ```
-![A7_GreenDragon_NaturalFlow](Rooted/Images1/A7_GreenDragon_NaturalFlow.png)
+![A7_GreenDragon_NaturalFlow](Rooted/Images1/A7_GreenDragon_NaturalFlow.jpg)
 ```
 
 ```
@@ -385,10 +385,10 @@ Illustrations for the Freeform Chapter (A‑Series)
 # A0 — “Red Dragon: Freedom & Love (SpiBody 1 Seed)”  
 Filename: A0_RedDragon_FreedomLove
 
-**A0_RedDragon_FreedomLove.png**
+**A0_RedDragon_FreedomLove.jpg**
 
 ```
-![A0_RedDragon_FreedomLove](Rooted/Images1/A0_RedDragon_FreedomLove.png)
+![A0_RedDragon_FreedomLove](Rooted/Images1/A0_RedDragon_FreedomLove.jpg)
 ```
 
 ```
@@ -405,10 +405,10 @@ threshold of movement and meaning.
 # A1 — “Freeform Field: The Open Center”  
 Filename: A1_FreeformField_OpenCenter
 
-**A1_FreeformField_OpenCenter.png**
+**A1_FreeformField_OpenCenter.jpg**
 
 ```
-![A1_FreeformField_OpenCenter](Rooted/Images1/A1_FreeformField_OpenCenter.png)
+![A1_FreeformField_OpenCenter](Rooted/Images1/A1_FreeformField_OpenCenter.jpg)
 ```
 
 ```
@@ -424,10 +424,10 @@ threshold where practice becomes perception.
 # A2 — “Trivia Crown: The Branching of SpiBody 2”  
 Filename: A2_TriviaCrown_SpiBody2
 
-**A2_TriviaCrown_SpiBody2.png**
+**A2_TriviaCrown_SpiBody2.jpg**
 
 ```
-![A2_TriviaCrown_SpiBody2](Rooted/Images1/A2_TriviaCrown_SpiBody2.png)
+![A2_TriviaCrown_SpiBody2](Rooted/Images1/A2_TriviaCrown_SpiBody2.jpg)
 ```
 
 ```
@@ -443,10 +443,10 @@ threshold of lighter, quicker entry points.
 # A3 — “Text Home: The Quiet Gate”  
 Filename: A3_TextHome_QuietGate
 
-**A3_TextHome_QuietGate.png**
+**A3_TextHome_QuietGate.jpg**
 
 ```
-![A3_TextHome_QuietGate](Rooted/Images1/A3_TextHome_QuietGate.png)
+![A3_TextHome_QuietGate](Rooted/Images1/A3_TextHome_QuietGate.jpg)
 ```
 
 ```
@@ -461,10 +461,10 @@ from branching energy into stillness, stepping through a gentle threshold of tex
 # A4 — “Interactive Web: The Network of Mirrors”  
 Filename: A4_InteractiveWeb_MirrorNetwork
 
-**A4_InteractiveWeb_MirrorNetwork.png**
+**A4_InteractiveWeb_MirrorNetwork.jpg**
 
 ```
-![A4_InteractiveWeb_MirrorNetwork](Rooted/Images1/A4_InteractiveWeb_MirrorNetwork.png)
+![A4_InteractiveWeb_MirrorNetwork](Rooted/Images1/A4_InteractiveWeb_MirrorNetwork.jpg)
 ```
 
 ```
@@ -479,10 +479,10 @@ interaction, guiding the reader across a threshold into mirrored experience.
 # A5 — “Extended Editions: The Spiral of Styles”  
 Filename: A5_ExtendedEditions_SpiralStyles
 
-**A5_ExtendedEditions_SpiralStyles.png**
+**A5_ExtendedEditions_SpiralStyles.jpg**
 
 ```
-![A5_ExtendedEditions_SpiralStyles](Rooted/Images1/A5_ExtendedEditions_SpiralStyles.png)
+![A5_ExtendedEditions_SpiralStyles](Rooted/Images1/A5_ExtendedEditions_SpiralStyles.jpg)
 ```
 
 ```
@@ -498,10 +498,10 @@ threshold of creative expression.
 # A6 — “Fractal Placement: The Map Within the Map”  
 Filename: A6_FractalPlacement_MapWithinMap
 
-**A6_FractalPlacement_MapWithinMap.png**
+**A6_FractalPlacement_MapWithinMap.jpg**
 
 ```
-![A6_FractalPlacement_MapWithinMap](Rooted/Images1/A6_FractalPlacement_MapWithinMap.png)
+![A6_FractalPlacement_MapWithinMap](Rooted/Images1/A6_FractalPlacement_MapWithinMap.jpg)
 ```
 
 ```
@@ -516,10 +516,10 @@ final metaphysical shift, marking the threshold where structure folds inward.
 # A7 — “Green Dragon: Natural Flow (SpiBody 2 Completion)”  
 Filename: A7_GreenDragon_NaturalFlow
 
-**A7_GreenDragon_NaturalFlow.png**
+**A7_GreenDragon_NaturalFlow.jpg**
 
 ```
-![A7_GreenDragon_NaturalFlow](Rooted/Images1/A7_GreenDragon_NaturalFlow.png)
+![A7_GreenDragon_NaturalFlow](Rooted/Images1/A7_GreenDragon_NaturalFlow.jpg)
 ```
 
 ```
