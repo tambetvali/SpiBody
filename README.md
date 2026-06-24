@@ -305,7 +305,7 @@ These materials are companions to the practice — not instructions, but sources
 
 ---
 
-# Freeform
+# 🜁 Freeform
 
 You can enter anywhere: through a long central text, a short root, a note on balance, or a piece of music.  
 The common thread is simple: use what you read to adjust how you move, how you stand, how you rest, how you act in ordinary situations.  
