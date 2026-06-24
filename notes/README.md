@@ -3,9 +3,14 @@
 The notes in this folder form a wide‑ranging exploration of embodiment, awareness, and the structures that shape human experience. Rather than presenting isolated ideas, they weave together into a living system: one that begins with the physical body, expands into the inner world of attention and intuition, and finally opens into the collective patterns that bind people together.  
 This overview is meant to guide the reader through that arc, offering a sense of direction before diving into the individual texts.
 
+![A3_ThreefoldArc](Images1/A3_ThreefoldArc.png)
+
 ---
 
 # 🟢 Physical Domain  
+
+![A0_PhysicalDomain](Images1/A0_PhysicalDomain.png)
+
 The journey begins with the body — not as a mechanical object, but as a field of forces, sensations, and subtle structures. These writings explore how the body organizes itself, how it moves, and how it can be trained with sensitivity rather than force. They form the foundation for everything that follows, because in this system, physical presence is inseparable from mental clarity and spiritual depth.
 
 ## **Body Structure & Mechanics**
@@ -40,6 +45,8 @@ These texts establish the body as a subtle instrument. They invite the reader to
 
 Training, in this context, is not about performance but about cultivating sensitivity. The practices above show how movement, breath, and attention can be aligned so that effort becomes minimal and perception becomes vivid.
 
+![A4_InnerMechanics](Images1/A4_InnerMechanics.png)
+
 ## **Energy & Health**
 - **[energyacceptancetraining.md](energyacceptancetraining.md)**  
   A practice for receiving and circulating energy through openness rather than effort.
@@ -67,6 +74,9 @@ These writings broaden the physical domain into the energetic. They suggest that
 ---
 
 # 🔵 Mental Domain  
+
+![A1_MentalDomain](Images1/A1_MentalDomain.png)
+
 Once the body is understood as a field of awareness, the notes turn inward. This section explores the mechanics of attention, the nature of intuition, and the shifting landscapes of identity. The tone becomes more introspective, inviting the reader to observe the mind with the same sensitivity cultivated in the body.
 
 ## **Attention & Awareness**
@@ -110,7 +120,12 @@ These writings bring the mental domain down to earth again, showing how inner co
 ---
 
 # 🟣 Collective Domain  
+
+![A2_CollectiveDomain](Images1/A2_CollectiveDomain.png)
+
 Finally, the notes expand outward into the social and cultural sphere. After grounding in the body and clarifying the mind, the system turns to the shared spaces where meaning is created between people. This section explores relationships, rituals, ethics, and cosmology — the patterns that shape communities and worldviews.
+
+![A5_InnerOuterBridge](Images1/A5_InnerOuterBridge.png)
 
 ## **Social & Relational Dynamics**
 - **[socialsides.md](socialsides.md)**  
@@ -149,6 +164,8 @@ Rituals, in this framework, are not rigid traditions but living structures that 
   Reflects on the relationship between scientific and spiritual perception.
 
 These writings complete the arc by situating the individual within a larger cosmology. They suggest that personal practice, social meaning, and universal patterns are all expressions of the same underlying movement.
+
+![A6_CosmicThread](Images1/A6_CosmicThread.png)
 
 ---
 
