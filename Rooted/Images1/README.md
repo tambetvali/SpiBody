@@ -184,6 +184,8 @@ Illustrations for the Freeform Chapter (A‑Series)
 # A0 — “Red Dragon: Freedom & Love (SpiBody 1 Seed)”  
 Filename: A0_RedDragon_FreedomLove
 
+![A0_RedDragon_FreedomLove](A0_RedDragon_FreedomLove.jpg)
+
 **A0_RedDragon_FreedomLove.jpg**
 
 ```
