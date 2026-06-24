@@ -235,6 +235,8 @@ how meaning evolves, how contradictions resolve, and how logic becomes multi‑d
 
 # Notes
 
+![Notes Folder](Rooted/Images1/NotesFolder.jpg)
+
 You can go to [SpiBody 2 — Trivia](https://eal22hc5nr.youware.app/spibody), and scroll down to Notes, the last section - there, you see not only the icons there, but also a button right next to title to open notes folder (alone) in nice, designed way to browse files and topics of SpiReason - other, smaller folders are easy to navigate manually. If you rather like textual navigation, use [Notes Collection](https://github.com/tambetvali/SpiBody/tree/main/notes#-spibody-notes--thematic-overview) made by CoPilot, where each note is followed by short description.
 
 These notes come from the actual `notes/` folder.  
@@ -264,6 +266,8 @@ Here are **7–10 selected notes** that introduce the main themes without overwh
 
 ---
 
+![Notes Folder](Rooted/Images1/References.jpg)
+
 # References
 
 These materials are companions to the practice — not instructions, but sources of atmosphere, inspiration, and parallel ideas.
@@ -282,6 +286,8 @@ These materials are companions to the practice — not instructions, but sources
 - **Vikings — Personal Music Notes (AI Intro)** → A short AI-written introduction to a personal music-related folder, hinting at atmosphere and themes rather than giving a playlist.  
   [🪓 vikings/aiintro.md](vikings/aiintro.md)  
 
+![Music and Movies](Rooted/Images1/MusicAndMovies.jpg)
+
 ---
 
 ## Movies & Tutorials
@@ -299,6 +305,8 @@ These materials are companions to the practice — not instructions, but sources
 > → A curated list of authors and books that resonate with the spirit of SpiBody, offering deeper reading paths.
 
 ### Related Book Notes
+
+![Related Books](Rooted/Images1/Books.jpg)
 
 - [📖 notes/books.md](notes/books.md) → alchemy, shamanism / from times when people were strong, standing firm in muscle but not yet in soul  
 - [📖 notes/books2.md](notes/books2.md) → set of more advanced books  
