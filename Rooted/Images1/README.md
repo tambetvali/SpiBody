@@ -174,3 +174,191 @@ Insert after the Logic of Life — Cheat Sheet 2 and before Logic & Measurement 
 ---
 
 # End of Images1 README
+
+# 🐉 SpiBody — Images2 Set  
+Illustrations for the Freeform Chapter (A‑Series)  
+*Red Dragon opens SpiBody 1; Green Dragon completes SpiBody 2.*
+
+---
+
+# A0 — “Red Dragon: Freedom & Love (SpiBody 1 Seed)”  
+Filename: A0_RedDragon_FreedomLove
+
+**A0_RedDragon_FreedomLove.png**
+
+```
+![A0_RedDragon_FreedomLove](Rooted/Images2/A0_RedDragon_FreedomLove.png)
+```
+
+```
+This image represents the Red Dragon: the spirit of SpiBody 1 — freedom, love,
+courage, and the original ignition of embodied practice. It should feel warm,
+protective, and expansive, with a sense of forward‑moving generosity. The
+instruction is to depict a dragon whose posture expresses open‑hearted strength:
+not dominance, but guardianship. Symbolically, this image anchors the Freeform
+chapter in its lineage: SpiBody 1 as the living root. Structurally, it marks the
+threshold before the Freeform text begins, reminding the reader that all later
+forms grow from this first fire.
+```
+
+**Placement:**  
+Place immediately under **🜁 Freeform**, before the introductory paragraphs.
+
+---
+
+# A1 — “Freeform Field: The Open Center”  
+Filename: A1_FreeformField_OpenCenter
+
+**A1_FreeformField_OpenCenter.png**
+
+```
+![A1_FreeformField_OpenCenter](Rooted/Images2/A1_FreeformField_OpenCenter.png)
+```
+
+```
+This image expresses the essence of Freeform: an open, breathable center where
+movement, rest, and awareness meet. The instruction is to create a visual field
+that feels like a soft vortex or a calm clearing — something that invites entry
+from any direction. Philosophically, it reflects Taoist emptiness, Buddhist
+presence, and the SpiBody principle of “movement before concept.” Structurally,
+it sets the tone for the entire chapter: spacious, adaptable, and non-linear.
+```
+
+**Placement:**  
+After the four introductory paragraphs of Freeform.
+
+---
+
+# A2 — “Trivia Crown: The Branching of SpiBody 2”  
+Filename: A2_TriviaCrown_SpiBody2
+
+**A2_TriviaCrown_SpiBody2.png**
+
+```
+![A2_TriviaCrown_SpiBody2](Rooted/Images2/A2_TriviaCrown_SpiBody2.png)
+```
+
+```
+This image represents the branching nature of SpiBody 2 — short forms, symbolic
+gestures, micro-practices, and visual cues. The instruction is to depict a crown
+of branching lines or fractal limbs, suggesting many small entry points emerging
+from a single trunk. Philosophically, it expresses the playful, compressed,
+refraction-based nature of SpiBody 2. Structurally, it marks the transition from
+the Freeform root into its first major branch.
+```
+
+**Placement:**  
+Directly under **🌱 Tao: SpiBody 2 — Trivia**.
+
+---
+
+# A3 — “Text Home: The Quiet Gate”  
+Filename: A3_TextHome_QuietGate
+
+**A3_TextHome_QuietGate.png**
+
+```
+![A3_TextHome_QuietGate](Rooted/Images2/A3_TextHome_QuietGate.png)
+```
+
+```
+This image symbolizes the textual home of SpiBody 2 — a quiet gate, a doorway
+into the Trivia mode. The instruction is to create a minimal, contemplative
+threshold: something that feels like a page turning or a small shrine opening.
+Philosophically, it reflects the gentle, contemplative nature of the text
+edition. Structurally, it signals the reader that they are entering the
+“explanatory” branch of SpiBody 2.
+```
+
+**Placement:**  
+Under **🏠 Home Page (Text Edition)**.
+
+---
+
+# A4 — “Interactive Web: The Network of Mirrors”  
+Filename: A4_InteractiveWeb_MirrorNetwork
+
+**A4_InteractiveWeb_MirrorNetwork.png**
+
+```
+![A4_InteractiveWeb_MirrorNetwork](Rooted/Images2/A4_InteractiveWeb_MirrorNetwork.png)
+```
+
+```
+This image represents the interactive websites: a network of mirrors, reflections,
+and cooperative nodes. The instruction is to depict a web-like structure that feels
+alive and responsive, with soft glowing intersections. Philosophically, it reflects
+the SpiZenTao principle of co-created knowledge. Structurally, it marks the shift
+from text to interaction, from reading to doing.
+```
+
+**Placement:**  
+Under **🌐 Website — Interactive Extensions of SpiZenTao**.
+
+---
+
+# A5 — “Extended Editions: The Spiral of Styles”  
+Filename: A5_ExtendedEditions_SpiralStyles
+
+**A5_ExtendedEditions_SpiralStyles.png**
+
+```
+![A5_ExtendedEditions_SpiralStyles](Rooted/Images2/A5_ExtendedEditions_SpiralStyles.png)
+```
+
+```
+This image symbolizes the extended interactive editions: movement-first,
+Zen-Tao hybrid, and dragon-style symbolic forms. The instruction is to create a
+spiral composed of multiple artistic styles blending into one another. This
+represents the multiplicity of SpiBody 2’s interactive expressions. Structurally,
+it marks the expansion from simple interactivity to stylistic diversity.
+```
+
+**Placement:**  
+Under **🌀 Interactive Editions (Extended)**.
+
+---
+
+# A6 — “Fractal Placement: The Map Within the Map”  
+Filename: A6_FractalPlacement_MapWithinMap
+
+**A6_FractalPlacement_MapWithinMap.png**
+
+```
+![A6_FractalPlacement_MapWithinMap](Rooted/Images2/A6_FractalPlacement_MapWithinMap.png)
+```
+
+```
+This image represents the structural placement of SpiBody 2 inside Freeform:
+a map within a map, a fractal repeating at a smaller scale. The instruction is to
+depict a nested diagram or recursive pattern, visually showing how SpiBody 1,
+Freeform, and SpiBody 2 interrelate. Structurally, it prepares the reader for the
+final metaphysical transition.
+```
+
+**Placement:**  
+Under **🧭 Structural Placement Under Freeform Practice**.
+
+---
+
+# A7 — “Green Dragon: Natural Flow (SpiBody 2 Completion)”  
+Filename: A7_GreenDragon_NaturalFlow
+
+**A7_GreenDragon_NaturalFlow.png**
+
+```
+![A7_GreenDragon_NaturalFlow](Rooted/Images2/A7_GreenDragon_NaturalFlow.png)
+```
+
+```
+This image represents the Green Dragon: the spirit of SpiBody 2 — naturalness,
+effortless flow, ecological intelligence, and embodied subtlety. The instruction
+is to depict a dragon whose form expresses organic movement: curved, soft,
+rooted in nature. Symbolically, it completes the arc begun by the Red Dragon,
+showing the evolution from fiery freedom to natural effortless presence.
+Structurally, it marks the final collapse of the Freeform chapter into its
+metaphysical continuation.
+```
+
+**Placement:**  
+At the very end of the Freeform chapter, after **🔮 Conclusion — Principles of Material Magic**.
