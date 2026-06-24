@@ -374,7 +374,7 @@ movement‑first, Zen‑Tao hybrid, and visual‑diagrammatic.
   **[Open extended home](https://eal22hc5nr.youware.app/spibody)**  
 
 - **Zen+Tao Dragon Style Edition**  
-  **[Open dragon edition](https://5e8c1ee7-0beb-4654-ba8e-238d405b0b74-qtxqyv.sticklight.app/)**  
+  **[Open dragon edition](https://5e8c1ee7-0beb-4654-ba8e-238d405b0b74-qtxqyv.sticklight.app/#tao-spibody)**  
 
 Each of these will receive its own subchapter with longer summaries.  
 For now, this outline shows the **metastructure** of blocks and names.
