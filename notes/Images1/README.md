@@ -9,6 +9,8 @@ Each image is circular and symbolic.
 Individually they appear abstract or surreal, but when viewed together they resemble  
 the three domain‑icons and their four connective principles.
 
+***Notice:*** I might have broken an AI image generation plan, because images 0-2 are realistic, but after that, "optical illusion" style was chosen to convert it more into abstract art of collections and various texts page.
+
 ---
 
 # Image A0 — “Physical Domain — Embodied Ground”  
