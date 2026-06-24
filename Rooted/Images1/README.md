@@ -209,6 +209,8 @@ Place immediately under **🜁 Freeform**, before the introductory paragraphs.
 # A1 — “Freeform Field: The Open Center”  
 Filename: A1_FreeformField_OpenCenter
 
+![A1_FreeformField_OpenCenter](A1_FreeformField_OpenCenter.png)
+
 **A1_FreeformField_OpenCenter.png**
 
 ```
@@ -231,6 +233,8 @@ After the four introductory paragraphs of Freeform.
 
 # A2 — “Trivia Crown: The Branching of SpiBody 2”  
 Filename: A2_TriviaCrown_SpiBody2
+
+![A2_TriviaCrown_SpiBody2](A2_TriviaCrown_SpiBody2.png)
 
 **A2_TriviaCrown_SpiBody2.png**
 
@@ -255,6 +259,8 @@ Directly under **🌱 Tao: SpiBody 2 — Trivia**.
 # A3 — “Text Home: The Quiet Gate”  
 Filename: A3_TextHome_QuietGate
 
+![A3_TextHome_QuietGate](A3_TextHome_QuietGate.png)
+
 **A3_TextHome_QuietGate.png**
 
 ```
@@ -278,6 +284,8 @@ Under **🏠 Home Page (Text Edition)**.
 # A4 — “Interactive Web: The Network of Mirrors”  
 Filename: A4_InteractiveWeb_MirrorNetwork
 
+![A4_InteractiveWeb_MirrorNetwork](A4_InteractiveWeb_MirrorNetwork.png)
+
 **A4_InteractiveWeb_MirrorNetwork.png**
 
 ```
@@ -300,6 +308,8 @@ Under **🌐 Website — Interactive Extensions of SpiZenTao**.
 # A5 — “Extended Editions: The Spiral of Styles”  
 Filename: A5_ExtendedEditions_SpiralStyles
 
+![A5_ExtendedEditions_SpiralStyles](A5_ExtendedEditions_SpiralStyles.png)
+
 **A5_ExtendedEditions_SpiralStyles.png**
 
 ```
@@ -321,6 +331,8 @@ Under **🌀 Interactive Editions (Extended)**.
 
 # A6 — “Fractal Placement: The Map Within the Map”  
 Filename: A6_FractalPlacement_MapWithinMap
+
+![A6_FractalPlacement_MapWithinMap](A6_FractalPlacement_MapWithinMap.png)
 
 **A6_FractalPlacement_MapWithinMap.png**
 
@@ -345,6 +357,8 @@ Under **🧭 Structural Placement Under Freeform Practice**.
 Filename: A7_GreenDragon_NaturalFlow
 
 **A7_GreenDragon_NaturalFlow.png**
+
+![A7_GreenDragon_NaturalFlow](A7_GreenDragon_NaturalFlow.png)
 
 ```
 ![A7_GreenDragon_NaturalFlow](Rooted/Images2/A7_GreenDragon_NaturalFlow.png)
