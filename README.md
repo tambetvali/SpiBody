@@ -1,5 +1,7 @@
 # What to read?
 
+![Image0_OpeningTheField](Rooted/Images1/Image0_OpeningTheField.png)
+
 Nobody stops you from jumping directly to interactive version of [SpiBody](https://embeddable.live/embed/Utg4YGE0tV). This is for lazy and curious.
 
 ### Read SpiBodie's central texts to get Rooted and Spirited if you can do it yourself -
@@ -53,6 +55,8 @@ The texts show how joints cooperate, how weight travels, how tension dissolves, 
 They also describe how everyday actions — opening a door, lifting a bag, walking across a room — can become training that builds structure, precision, and ease.  
 If you want to understand the method through direct physical experience, this is where to begin.
 
+![Image1_WholeBodyRoot](Rooted/Images1/Image1_WholeBodyRoot.png)
+
 ---
 
 ## Health, Recovery & Collective Body — Text 2
@@ -73,6 +77,8 @@ Training and recovery are not opposites here — they are two sides of the same 
 These texts explore how the body repairs itself through movement, how tension unwinds, how breath and posture support regeneration, and how small adjustments can restore energy.  
 They also describe how collective movement forms, how bodies influence each other, and how shared practice can amplify learning.  
 Together, these four texts form the second major pillar of SpiBody.
+
+![Image2_RecoverySpiral](Rooted/Images1/Image2_RecoverySpiral.png)
 
 ---
 
@@ -140,6 +146,8 @@ Each summary below tells you what you’ll find inside.
 - **Soma Theory** → A conceptual sketch of the somatic principles behind SpiBody.  
   [🧩 Rooted/somatheory.md](Rooted/somatheory.md)  
 
+![Image3_AwakeningSoma](Rooted/Images1/Image3_AwakeningSoma.png)
+
 ---
 
 ## Chakra & Element Map — Cheat Sheet 1
@@ -161,6 +169,8 @@ SpiBody studies several of these boxes at once, comparing them without collapsin
 
 This text gives you the symbolic vocabulary used later in the method:  
 how the body is mapped, how elements describe patterns of change, and how different traditions converge on similar structures even when their languages differ.
+
+![Image4_ElementChakraField](Rooted/Images1/Image4_ElementChakraField.png)
 
 ---
 
@@ -185,6 +195,8 @@ This cheat sheet gives you the **logic of lived experience**, the structure behi
 
 It also introduces four material definitions — experiential, temporal, philosophical, and projective — showing how meaning stabilizes over time.  
 These definitions are scientific, but they open the door to the spiritual: they show how life evaluates itself, how systems evolve, and how truth becomes layered rather than binary.
+
+![Image5_LogicOfLife](Rooted/Images1/Image5_LogicOfLife.png)
 
 ---
 
