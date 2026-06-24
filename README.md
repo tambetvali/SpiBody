@@ -307,12 +307,17 @@ These materials are companions to the practice — not instructions, but sources
 
 # 🜁 Freeform
 
+![A0_RedDragon_FreedomLove](Rooted/Images1/A0_RedDragon_FreedomLove.jpg)
+
 You can enter anywhere: through a long central text, a short root, a note on balance, or a piece of music.  
 The common thread is simple: use what you read to adjust how you move, how you stand, how you rest, how you act in ordinary situations.  
 The growth here is physical first — in how your joints cooperate, how your weight travels, how tension appears and dissolves — and only then becomes clearer in thought.  
 Take your time, explore at your own pace, and let the materials meet you where you are.
 
+![A1_FreeformField_OpenCenter](Rooted/Images1/A1_FreeformField_OpenCenter.jpg)
+
 ## 🌱 Tao: SpiBody 2 — Trivia  
+![A2_TriviaCrown_SpiBody2](Rooted/Images1/A2_TriviaCrown_SpiBody2.jpg)
 *A fractal continuation of SpiBody’s Freeform practice*
 
 SpiBody 2 extends the Freeform chapter by unfolding the same principles through
@@ -328,6 +333,8 @@ compressed, playful, and immediately usable.
 
 ### 🏠 Home Page (Text Edition)
 
+![A3_TextHome_QuietGate](Rooted/Images1/A3_TextHome_QuietGate.jpg)
+
 The textual home of SpiBody 2 lives here:  
 - **SpiZenTao — Tao: SpiBody 2**  
   **[Open text edition](https://github.com/tambetvali/SpiZenTao#-tao-spibody-2)**  
@@ -339,6 +346,8 @@ single lines or diagrams.
 ---
 
 ### 🌐 Website — Interactive Extensions of SpiZenTao
+
+![A4_InteractiveWeb_MirrorNetwork](Rooted/Images1/A4_InteractiveWeb_MirrorNetwork.jpg)
 
 Authorization, cooperation, and canonical mirrors of the interactive sites:  
 https://github.com/tambetvali/SpiZenTao/blob/main/Websites.md#-websites--interactive-extensions-of-spizentao
@@ -356,6 +365,8 @@ These links form the **first generation** of SpiBody interactive editions
 
 ### 🌀 Interactive Editions (Extended)
 
+![A5_ExtendedEditions_SpiralStyles](Rooted/Images1/A5_ExtendedEditions_SpiralStyles.jpg)
+
 These versions expand the same material into different symbolic languages:
 movement‑first, Zen‑Tao hybrid, and visual‑diagrammatic.
 
@@ -371,6 +382,8 @@ For now, this outline shows the **metastructure** of blocks and names.
 ---
 
 ### 🧭 Structural Placement Under Freeform Practice
+
+![A6_FractalPlacement_MapWithinMap](Rooted/Images1/A6_FractalPlacement_MapWithinMap.jpg)
 
 SpiBody 2 sits directly under **Freeform**, as its “short‑form fractal”:
 
@@ -403,3 +416,5 @@ architecture.
 These pages introduce the conclusion of the SpiBody arc:  
 how material metaphysics flows into mind‑body practice, and how practice
 returns to reshape metaphysics.
+
+![A7_GreenDragon_NaturalFlow](Rooted/Images1/A7_GreenDragon_NaturalFlow.jpg)
