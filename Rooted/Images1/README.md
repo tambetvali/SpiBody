@@ -175,7 +175,7 @@ Insert after the Logic of Life — Cheat Sheet 2 and before Logic & Measurement 
 
 # End of Images1 README
 
-# 🐉 SpiBody — Images2 Set  
+# 🐉 SpiBody — Images1 Set  
 Illustrations for the Freeform Chapter (A‑Series)  
 *Red Dragon opens SpiBody 1; Green Dragon completes SpiBody 2.*
 
@@ -187,7 +187,7 @@ Filename: A0_RedDragon_FreedomLove
 **A0_RedDragon_FreedomLove.png**
 
 ```
-![A0_RedDragon_FreedomLove](Rooted/Images2/A0_RedDragon_FreedomLove.png)
+![A0_RedDragon_FreedomLove](Rooted/Images1/A0_RedDragon_FreedomLove.png)
 ```
 
 ```
@@ -214,7 +214,7 @@ Filename: A1_FreeformField_OpenCenter
 **A1_FreeformField_OpenCenter.png**
 
 ```
-![A1_FreeformField_OpenCenter](Rooted/Images2/A1_FreeformField_OpenCenter.png)
+![A1_FreeformField_OpenCenter](Rooted/Images1/A1_FreeformField_OpenCenter.png)
 ```
 
 ```
@@ -239,7 +239,7 @@ Filename: A2_TriviaCrown_SpiBody2
 **A2_TriviaCrown_SpiBody2.png**
 
 ```
-![A2_TriviaCrown_SpiBody2](Rooted/Images2/A2_TriviaCrown_SpiBody2.png)
+![A2_TriviaCrown_SpiBody2](Rooted/Images1/A2_TriviaCrown_SpiBody2.png)
 ```
 
 ```
@@ -264,7 +264,7 @@ Filename: A3_TextHome_QuietGate
 **A3_TextHome_QuietGate.png**
 
 ```
-![A3_TextHome_QuietGate](Rooted/Images2/A3_TextHome_QuietGate.png)
+![A3_TextHome_QuietGate](Rooted/Images1/A3_TextHome_QuietGate.png)
 ```
 
 ```
@@ -289,7 +289,7 @@ Filename: A4_InteractiveWeb_MirrorNetwork
 **A4_InteractiveWeb_MirrorNetwork.png**
 
 ```
-![A4_InteractiveWeb_MirrorNetwork](Rooted/Images2/A4_InteractiveWeb_MirrorNetwork.png)
+![A4_InteractiveWeb_MirrorNetwork](Rooted/Images1/A4_InteractiveWeb_MirrorNetwork.png)
 ```
 
 ```
@@ -313,7 +313,7 @@ Filename: A5_ExtendedEditions_SpiralStyles
 **A5_ExtendedEditions_SpiralStyles.png**
 
 ```
-![A5_ExtendedEditions_SpiralStyles](Rooted/Images2/A5_ExtendedEditions_SpiralStyles.png)
+![A5_ExtendedEditions_SpiralStyles](Rooted/Images1/A5_ExtendedEditions_SpiralStyles.png)
 ```
 
 ```
@@ -337,7 +337,7 @@ Filename: A6_FractalPlacement_MapWithinMap
 **A6_FractalPlacement_MapWithinMap.png**
 
 ```
-![A6_FractalPlacement_MapWithinMap](Rooted/Images2/A6_FractalPlacement_MapWithinMap.png)
+![A6_FractalPlacement_MapWithinMap](Rooted/Images1/A6_FractalPlacement_MapWithinMap.png)
 ```
 
 ```
@@ -361,7 +361,7 @@ Filename: A7_GreenDragon_NaturalFlow
 ![A7_GreenDragon_NaturalFlow](A7_GreenDragon_NaturalFlow.png)
 
 ```
-![A7_GreenDragon_NaturalFlow](Rooted/Images2/A7_GreenDragon_NaturalFlow.png)
+![A7_GreenDragon_NaturalFlow](Rooted/Images1/A7_GreenDragon_NaturalFlow.png)
 ```
 
 ```
@@ -376,3 +376,156 @@ metaphysical continuation.
 
 **Placement:**  
 At the very end of the Freeform chapter, after **🔮 Conclusion — Principles of Material Magic**.
+
+# 🐉 SpiBody — Images1 Set  
+Illustrations for the Freeform Chapter (A‑Series)
+
+---
+
+# A0 — “Red Dragon: Freedom & Love (SpiBody 1 Seed)”  
+Filename: A0_RedDragon_FreedomLove
+
+**A0_RedDragon_FreedomLove.png**
+
+```
+![A0_RedDragon_FreedomLove](Rooted/Images1/A0_RedDragon_FreedomLove.png)
+```
+
+```
+This image shows the Red Dragon of SpiBody 1 — freedom, love, courage, and the
+first ignition of embodied practice. It should feel warm, protective, and open.
+The dragon’s posture expresses strength without dominance, a guardian stance.
+Symbolically it anchors Freeform in its lineage as the living root. Structurally
+it marks the beginning of the reader’s entry into the chapter, holding the first
+threshold of movement and meaning.
+```
+
+---
+
+# A1 — “Freeform Field: The Open Center”  
+Filename: A1_FreeformField_OpenCenter
+
+**A1_FreeformField_OpenCenter.png**
+
+```
+![A1_FreeformField_OpenCenter](Rooted/Images1/A1_FreeformField_OpenCenter.png)
+```
+
+```
+This image expresses the Freeform center — open, breathable, and calm. It should
+feel like a soft clearing that invites entry from any direction. It reflects the
+principle of movement before concept, grounding the reader gently. Structurally
+it sets the tone for the chapter’s spacious pacing, preparing attention for the
+threshold where practice becomes perception.
+```
+
+---
+
+# A2 — “Trivia Crown: The Branching of SpiBody 2”  
+Filename: A2_TriviaCrown_SpiBody2
+
+**A2_TriviaCrown_SpiBody2.png**
+
+```
+![A2_TriviaCrown_SpiBody2](Rooted/Images1/A2_TriviaCrown_SpiBody2.png)
+```
+
+```
+This image shows the branching crown of SpiBody 2 — short forms, micro‑practices,
+and symbolic cues. It should feel like many small paths emerging from one trunk.
+It expresses the playful, refracted nature of Trivia mode. Structurally it marks
+the shift from Freeform’s root into its first branch, opening the reader to the
+threshold of lighter, quicker entry points.
+```
+
+---
+
+# A3 — “Text Home: The Quiet Gate”  
+Filename: A3_TextHome_QuietGate
+
+**A3_TextHome_QuietGate.png**
+
+```
+![A3_TextHome_QuietGate](Rooted/Images1/A3_TextHome_QuietGate.png)
+```
+
+```
+This image represents the quiet textual gate of SpiBody 2. It should feel like a
+small doorway or shrine, simple and contemplative. It signals entry into the calm
+explanatory branch of Trivia mode. Structurally it marks the reader’s movement
+from branching energy into stillness, stepping through a gentle threshold of text.
+```
+
+---
+
+# A4 — “Interactive Web: The Network of Mirrors”  
+Filename: A4_InteractiveWeb_MirrorNetwork
+
+**A4_InteractiveWeb_MirrorNetwork.png**
+
+```
+![A4_InteractiveWeb_MirrorNetwork](Rooted/Images1/A4_InteractiveWeb_MirrorNetwork.png)
+```
+
+```
+This image shows the interactive web — a network of mirrors and responsive nodes.
+It should feel alive, glowing softly at each intersection. It reflects cooperative
+learning and shared perception. Structurally it marks the shift from text to live
+interaction, guiding the reader across a threshold into mirrored experience.
+```
+
+---
+
+# A5 — “Extended Editions: The Spiral of Styles”  
+Filename: A5_ExtendedEditions_SpiralStyles
+
+**A5_ExtendedEditions_SpiralStyles.png**
+
+```
+![A5_ExtendedEditions_SpiralStyles](Rooted/Images1/A5_ExtendedEditions_SpiralStyles.png)
+```
+
+```
+This image symbolizes the extended editions — movement‑first, Zen‑Tao hybrid, and
+dragon‑style forms. It should feel like a spiral of blended styles. It expresses
+the diversity of SpiBody 2’s interactive expressions. Structurally it marks the
+expansion from simple interactivity into stylistic variation, crossing a new
+threshold of creative expression.
+```
+
+---
+
+# A6 — “Fractal Placement: The Map Within the Map”  
+Filename: A6_FractalPlacement_MapWithinMap
+
+**A6_FractalPlacement_MapWithinMap.png**
+
+```
+![A6_FractalPlacement_MapWithinMap](Rooted/Images1/A6_FractalPlacement_MapWithinMap.png)
+```
+
+```
+This image shows a fractal map — SpiBody 1, Freeform, and SpiBody 2 nested within
+each other. It should feel recursive and clear. It expresses the repeating pattern
+of the system at different scales. Structurally it prepares the reader for the
+final metaphysical shift, marking the threshold where structure folds inward.
+```
+
+---
+
+# A7 — “Green Dragon: Natural Flow (SpiBody 2 Completion)”  
+Filename: A7_GreenDragon_NaturalFlow
+
+**A7_GreenDragon_NaturalFlow.png**
+
+```
+![A7_GreenDragon_NaturalFlow](Rooted/Images1/A7_GreenDragon_NaturalFlow.png)
+```
+
+```
+This image shows the Green Dragon — naturalness, effortless flow, and ecological
+intelligence. It should feel soft, curved, and rooted in nature. It completes the
+arc begun by the Red Dragon, shifting from fire to natural ease. Structurally it
+marks the final collapse of Freeform into its continuation, closing the chapter’s
+threshold with quiet completion.
+```
