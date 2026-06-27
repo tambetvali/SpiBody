@@ -1,8 +1,12 @@
+![CollectiveHolisticRoot](Images/CollectiveHolisticRoot.png)
+
 # 🤝 Training a Collective: Muscles of Society
 
 One body must be holistic — but so must the *collective body*. 🧬 When time is limited for individuals, we can still build a resilient society by sharing responsibility for *physical training*.
 
 Even for spiritual people, physical movement is essential. Icons like **Bruce Lee** have shown: spirit and strength are teammates.
+
+![CollectiveDynamicsMap](Images/CollectiveDynamicsMap.png)
 
 ---
 
@@ -111,5 +115,10 @@ Our natural love for play, fun, games, even watching sports — it's not wasted 
 ---
 
 **🏁 Collective Training = Shared Strength × Purpose × Play.**  
+
+![CollectiveIntegrationField](Images/CollectiveIntegrationField.png)
+
 Let every move count. Let every person matter.  
 Build a society that flexes *together*. 💪🌍
+
+![AIAugmentedCollective](Images/AIAugmentedCollective.png)
