@@ -1,5 +1,7 @@
 _AI generated version is in [holisticbodyai.md](holisticbodyai.md)_
 
+![HolisticCentralRoot](Images/HolisticCentralRoot.png)
+
 # Training the body with Spiritual Perspective
 
 I have not specifically studied yoga, but rather I study philosophies of martial arts and body cultures, and try to reach deep wisdom into intuition of this. This is compatible with our modern spirituality, which tries to reach essential truth rather than rely on authority.
@@ -11,6 +13,8 @@ I have not specifically studied yoga, but rather I study philosophies of martial
 In this view, you do not try to count only on heavy training, but rather you train the body in it's completeness - adding just millimeters to flexibility of each part, and some to strength of it, would make it a lot more efficient. It's not so important to train only the parts, which are used to measure the strength against other bodies.
 
 Fractal structure of body - you can move same part of the body by different muscles, for example the hand contains many muscles, which can move fingers, you can even do it with shoulder or your back. Also, then, if you train one part of your body completely, it fractally trains also each part of your body.
+
+![SystemicInterconnection](Images/SystemicInterconnection.png)
 
 # Contemplation on body
 
@@ -36,4 +40,8 @@ Training some parts from lower to higher intelligence also creates sources for v
 
 # Magic of Training
 
+![CentralIntegrationField](Images/CentralIntegrationField.png)
+
 Your body is able to show signs, such as marking some muscles as idiots or showing visual effects as you reach new capabilities. You need to travel this road with intuition.
+
+![HumanCenteredHolism](Images/HumanCenteredHolism.png)
