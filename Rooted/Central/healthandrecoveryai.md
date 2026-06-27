@@ -1,3 +1,7 @@
+![RecoveryCentralRoot](Images/RecoveryCentralRoot.png)
+
+<br>
+
 # 🏋️‍♂️ Health & Recovery: Muscles, Mind & The Long Game
 
 This is AI version: you can read the [Original](healthandrecovery.md) or [Full Composition](spibodyai.md).
@@ -27,6 +31,8 @@ This isn’t just a guide; it's a *journal of resilience*, where body parts once
 🧩 **Lesson:** Pain may not always be about organs — sometimes it’s lack of structure. Muscle is armor.
 
 ---
+
+![HealingDynamicsMap](Images/HealingDynamicsMap.png)
 
 ## 🧠 3. Mind Over Migraine
 
@@ -71,4 +77,9 @@ This isn’t just a guide; it's a *journal of resilience*, where body parts once
 ---
 
 **🔁 Pain → Focus → Movement → Muscle → Power.**  
+
+![IntegratedRecoveryField](Images/IntegratedRecoveryField.png)
+
 Stay in the rhythm. Trust the path. 🧘‍♂️🔥
+
+![AIEnhancedRecovery](Images/AIEnhancedRecovery.png)
