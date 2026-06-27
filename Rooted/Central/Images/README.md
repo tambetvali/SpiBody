@@ -183,3 +183,161 @@ reality with algorithmic representation.
 ---
 
 # ✔ End of Image Specification Archive
+
+# 📘 SpiBody – Image Specification Archive (Health & Recovery)
+This file stores the **original image generation tasks** for the Health & Recovery documents.  
+All images below are referenced by both:
+
+- `Rooted/Central/healthandrecovery.md`
+- `Rooted/Central/healthandrecoveryai.md`
+
+Three images are shared; one is unique per file.
+
+---
+
+## ⭐ IMAGE 1 — Shared (placed at the beginning of both files)
+
+### **Image: Recovery Central Root Field**  
+**Filename:** `RecoveryCentralRoot.png`  
+![RecoveryCentralRoot](RecoveryCentralRoot.png)
+
+##### **Long Description**
+```
+A full‑page, high‑resolution illustration showing the human body in a state of
+healing and systemic recalibration. The figure stands in anatomical position,
+semi‑transparent, illuminated by a soft vertical axis representing the “Recovery
+Root” of the SpiBody ontology.
+
+From this axis radiate gentle, glowing pathways symbolizing the body’s natural
+healing systems: immune response, tissue regeneration, autonomic balancing,
+cellular repair, and emotional stabilization. Each pathway is color‑coded with
+soothing tones—teal, soft gold, pale violet, and warm coral.
+
+The background is a dark‑to‑light gradient, evoking a transition from illness to
+restoration. Floating around the figure are subtle glyphs representing recovery
+metrics, biological rhythms, and systemic coherence patterns.
+
+The image conveys the idea that healing is a multi‑layered, interconnected
+process rooted in a central organizing principle of recovery.
+```
+
+**Placement:**  
+- `healthandrecovery.md` → very top  
+- `healthandrecoveryai.md` → very top  
+
+---
+
+## ⭐ IMAGE 2 — Shared (mid‑document)
+
+### **Image: Healing System Dynamics Map**  
+**Filename:** `HealingDynamicsMap.png`  
+![HealingDynamicsMap](HealingDynamicsMap.png)
+
+##### **Long Description**
+```
+A horizontally oriented diagram illustrating the dynamic interplay between the
+body’s healing systems: immune, endocrine, nervous, circulatory, lymphatic,
+musculoskeletal, emotional, and cognitive.
+
+Each system is represented as a node cluster arranged in a circular or radial
+pattern. Edges between clusters glow with varying intensity to represent the
+strength and direction of healing influence. For example: immune → endocrine,
+nervous → emotional, lymphatic → circulatory.
+
+The visual style blends anatomical accuracy with systemic modeling: organic
+curves meet geometric node‑link structures. Soft gradients and translucent
+overlays show how healing cascades propagate across systems.
+
+The image communicates that recovery is not linear but a dynamic, multi‑system
+process with feedback loops and emergent patterns.
+```
+
+**Placement:**  
+- `healthandrecovery.md` → after the section describing healing phases  
+- `healthandrecoveryai.md` → after the section describing AI‑interpreted healing dynamics  
+
+---
+
+## ⭐ IMAGE 3 — Shared (near the end of both files)
+
+### **Image: Integrated Recovery Field**  
+**Filename:** `IntegratedRecoveryField.png`  
+![IntegratedRecoveryField](IntegratedRecoveryField.png)
+
+##### **Long Description**
+```
+A large, immersive visualization showing the human body surrounded by a layered
+field of recovery processes: physical repair, emotional stabilization, cognitive
+clarity, energetic rebalancing, and environmental support.
+
+The central figure emits soft concentric waves of light, each representing a
+different recovery domain. These waves intersect with floating geometric
+structures symbolizing data, meaning, and systemic coherence.
+
+The aesthetic blends medical imaging, neural‑network visualization, and
+information‑field diagrams. Soft volumetric lighting creates a sense of depth and
+continuity. The outermost layer contains symbolic representations of supportive
+environmental factors such as rest, nutrition, and social connection.
+
+This image conveys the idea of integrated recovery: multiple layers of healing
+merging into a coherent, unified process.
+```
+
+**Placement:**  
+- `healthandrecovery.md` → second‑to‑last section  
+- `healthandrecoveryai.md` → second‑to‑last section  
+
+---
+
+## ⭐ IMAGE 4A — Unique to healthandrecovery.md (final image)
+
+### **Image: Human‑Centered Healing Pathway**  
+**Filename:** `HumanHealingPathway.png`  
+![HumanHealingPathway](HumanHealingPathway.png)
+
+##### **Long Description**
+```
+A warm, human‑focused illustration emphasizing the lived experience of healing.
+The figure is surrounded by soft, flowing shapes representing emotional release,
+rest, comfort, and personal resilience.
+
+The style is organic and gentle, with smooth color transitions and a sense of
+inner calm. Subtle anatomical hints remain, but the emphasis is on the subjective
+experience of recovery: breath, rest, grounding, and reconnection with the body.
+
+This image supports the human‑centric narrative of healing as a personal,
+embodied journey.
+```
+
+**Placement:**  
+- `healthandrecovery.md` → final image at the end  
+
+---
+
+## ⭐ IMAGE 4B — Unique to healthandrecoveryai.md (final image)
+
+### **Image: AI‑Enhanced Recovery Model**  
+**Filename:** `AIEnhancedRecovery.png`  
+![AIEnhancedRecovery](AIEnhancedRecovery.png)
+
+##### **Long Description**
+```
+A highly technical, AI‑infused visualization showing the human body overlaid with
+machine‑learning structures that model recovery: predictive healing curves,
+feature maps, attention overlays, and systemic risk indicators.
+
+The figure is semi‑transparent, with neural‑network‑like filaments weaving through
+the body. Around it float holographic panels displaying model outputs, recovery
+trajectories, and symbolic reasoning layers.
+
+The aesthetic is futuristic and computational, emphasizing how AI interprets,
+predicts, and augments human recovery processes. The image bridges biological
+healing with algorithmic insight.
+```
+
+**Placement:**  
+- `healthandrecoveryai.md` → final image at the end  
+
+---
+
+# ✔ End of Image Specification Archive (Health & Recovery)
