@@ -1,3 +1,5 @@
+![Central Img](Images/Central.png)
+
 ***Notice: this is introduction of the early version of the site, the files of this version used to be in root folder, but now are in "Rooted/Central", and files I added later to root folder, are now in "Rooted": this folder here, thus, contains the main method in simple bullet list; the texts and websites are still the main ones linked from the root folder, but you might want to read this file or to find the old intro.***
 
 Websites for this information:
