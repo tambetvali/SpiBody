@@ -7,9 +7,14 @@ Nobody stops you from jumping directly to interactive version of [SpiBody](https
 ### Read SpiBodie's central texts to get Rooted and Spirited if you can do it yourself -
 
 ideally, it's a free flow based on your strict intuition and practical consideration, a seed theory rather than any math concerely, altough I tried to give the basic version of this inspiration, also using mine:
-- SpiBody AI: [🌱 SpiBody](Rooted/Central/spibodyai.md) ⇒ Enter ***Y***.
-- SpiBody 1A:  [🦴 Rooted/Central/holisticbody.md](Rooted/Central/holisticbody.md) ↝ ***X***.
-- SpiBody 1B: [💧 Rooted/Central/healthandrecoveryai.md](Rooted/Central/healthandrecoveryai.md) ↝ ***Z***.
+- SpiBody AI: ⇒ Enter ***Y***.
+  ### [🌱 SpiBody](Rooted/Central/spibodyai.md)
+- SpiBody 1A: ↝ ***X***.
+  ## [🦴 Rooted/Central/holisticbody.md](Rooted/Central/holisticbody.md)
+- SpiBody 1B: ↝ ***Z***.
+  ## [💧 Rooted/Central/healthandrecoveryai.md](Rooted/Central/healthandrecoveryai.md)
+
+![Central Img](Rooted/Central/Images/SpiBodyCentralConvergence.png)
 
 ### In Zen and Tao, you use Attention and Create! It's a Creation World.
 
