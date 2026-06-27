@@ -1,3 +1,5 @@
+![SpiBodyAICentralNexus](Images/SpiBodyAICentralNexus.png)
+
 # 🌱 SpiBody Unified Theory  
 ### *Holistic Body • Recovery • Laegna • SpiZenTao • Fractal Soma*
 
@@ -54,6 +56,8 @@ Training is not only physical — it is:
 
 Meditation is not separate from movement.  
 Movement is meditation.
+
+![SpiBodyAIArchitecture](Images/SpiBodyAIArchitecture.png)
 
 ---
 
@@ -326,7 +330,11 @@ Training becomes:
 
 > **Pain → Focus → Movement → Muscle → Power**
 
+![SpiBodyAIMultiLayerField](Images/SpiBodyAIMultiLayerField.png)
+
 Recovery is rhythm.  
 Training is conversation.  
 The body is a fractal universe.  
 You are its explorer.
+
+![SpiBodyAIMetaSphere](Images/SpiBodyAIMetaSphere.png)
