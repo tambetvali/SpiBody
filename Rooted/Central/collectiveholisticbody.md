@@ -1,8 +1,12 @@
+![CollectiveHolisticRoot](Images/CollectiveHolisticRoot.png)
+
 # Training a collective
 
 One body needs to be holistic, but also the collective body. To create holistic collective body from limited time of each member, we can share the requirements for physical activity.
 
 Especially as spiritual people, and as a society in general, we would especially need physical training, and many spiritual authors (like Bruce Lee) are good examples of this.
+
+![CollectiveDynamicsMap](Images/CollectiveDynamicsMap.png)
 
 ## Creating a cellular structure
 
@@ -30,4 +34,8 @@ Exercise develops muscles, but where the repeated exercise would start from deve
 
 We can stand: as the chemical, physical, auditori, visual, logical or spiritual connections between our bodies are very complex, also the things we can train are very complex. The basic logic of doing something until we get tired (or, by one martial arts article, also imagining the exercise; and also missing it completely but having exercised the cases where we miss a muscle - it's not only a routine, but it's intelligent, so the complex life needs and even changing patterns indeed, in addition to repeated moves, activate the layers, which could be associated with training so that we benefit from united models) - so, for society, our game or workplace, also a specific set of games and exercises can be developed.
 
+![CollectiveIntegrationField](Images/CollectiveIntegrationField.png)
+
 In this process we could see the normal life behind, as in some sense, our needs for games, activities and even pleasure in seeing ones, could be perfect, perhaps we need not to develop much - indeed, we should become very conscious of these things and what they mean to us.
+
+![HumanCollectiveHarmony](Images/HumanCollectiveHarmony.png)
