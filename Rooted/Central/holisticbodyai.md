@@ -1,3 +1,7 @@
+![HolisticCentralRoot](Images/HolisticCentralRoot.png)
+
+<br>
+
 _This version is written by AI based on [holisticbody.md](holisticbody.md)_
 
 # 🧘 Training the Body Through a Spiritual Lens
@@ -16,6 +20,8 @@ Rather than relying on sheer force, holistic practice emphasizes subtle improvem
 - 🌀 Enhancing coordination among muscle groups
 
 Even small gains can yield a profound increase in efficiency and bodily harmony.
+
+![SystemicInterconnection](Images/SystemicInterconnection.png)
 
 ## 🔁 Fractals of Movement: The Body as a Pattern
 
@@ -68,4 +74,10 @@ As practice deepens, subtle “signals” begin to surface:
 - Visual effects and sensations emerge with new capabilities
 - Intuition becomes a compass for unexplored territory
 
+![CentralIntegrationField](Images/CentralIntegrationField.png)
+
 Spiritual training invites these mysteries to unfold—through discipline, awareness, and personal evolution.
+
+<br>
+
+![AIAugmentedHolism](Images/AIAugmentedHolism.png)
