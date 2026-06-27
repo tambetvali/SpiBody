@@ -341,3 +341,303 @@ healing with algorithmic insight.
 ---
 
 # ✔ End of Image Specification Archive (Health & Recovery)
+
+# 📘 SpiBody – Image Specification Archive (Collective Holistic Body)
+This file stores the **original image generation tasks** for the Collective Holistic Body documents.  
+All images below are referenced by both:
+
+- `Rooted/Central/collectiveholisticbody.md`
+- `Rooted/Central/collectiveholisticbodyai.md`
+
+Three images are shared; one is unique per file.
+
+---
+
+## ⭐ IMAGE 1 — Shared (placed at the beginning of both files)
+
+### **Image: Collective Holistic Root Field**  
+**Filename:** `CollectiveHolisticRoot.png`  
+![CollectiveHolisticRoot](CollectiveHolisticRoot.png)
+
+##### **Long Description**
+```
+A full‑page, high‑resolution illustration showing a group of human figures arranged
+in a circular formation, each semi‑transparent and illuminated by a shared central
+axis of light. This axis represents the “Collective Root” of the SpiBody ontology,
+symbolizing the interconnectedness of individuals within a shared systemic field.
+
+Radiating from the central axis are luminous pathways linking each figure,
+representing shared cognition, emotional resonance, social coherence, and
+collective biological rhythms. The pathways glow in soft gradients of blue, gold,
+and violet, merging into a unified network.
+
+The background is a deep gradient with faint geometric patterns, evoking a sense
+of collective intelligence and shared systemic awareness. Floating around the
+group are symbolic glyphs representing group dynamics, emergent behavior, and
+collective meaning structures.
+
+The image conveys the idea that individuals are not isolated systems but nodes
+within a larger, interconnected collective field.
+```
+
+**Placement:**  
+- `collectiveholisticbody.md` → very top  
+- `collectiveholisticbodyai.md` → very top  
+
+---
+
+## ⭐ IMAGE 2 — Shared (mid‑document)
+
+### **Image: Collective System Dynamics Map**  
+**Filename:** `CollectiveDynamicsMap.png`  
+![CollectiveDynamicsMap](CollectiveDynamicsMap.png)
+
+##### **Long Description**
+```
+A wide, horizontally oriented diagram illustrating the dynamic interplay between
+multiple individuals within a collective system. Each person is represented as a
+node cluster, with edges connecting them to represent shared emotional fields,
+group cognition, social influence, and environmental synchrony.
+
+The clusters are arranged in a radial or lattice‑like pattern, with glowing edges
+indicating the strength and direction of collective influence. Overlays show
+patterns such as resonance loops, coherence waves, and emergent group behavior.
+
+The visual style blends social‑network mapping with biological and energetic
+modeling. Soft gradients and translucent layers show how collective states
+propagate through groups, forming patterns of alignment, divergence, or
+synchronization.
+
+The image communicates that collective functioning is a dynamic, multi‑layered
+process shaped by interactions between individuals and the shared field.
+```
+
+**Placement:**  
+- `collectiveholisticbody.md` → after the section describing collective dynamics  
+- `collectiveholisticbodyai.md` → after the section describing AI‑interpreted collective patterns  
+
+---
+
+## ⭐ IMAGE 3 — Shared (near the end of both files)
+
+### **Image: Collective Integration Field**  
+**Filename:** `CollectiveIntegrationField.png`  
+![CollectiveIntegrationField](CollectiveIntegrationField.png)
+
+##### **Long Description**
+```
+A large, immersive visualization showing a group of human figures surrounded by a
+shared field of interacting layers: collective cognition, emotional resonance,
+social coherence, environmental influence, and informational exchange.
+
+The group emits concentric waves of light, each representing a different domain
+of collective functioning. These waves intersect with floating geometric
+structures symbolizing shared meaning, group memory, and emergent intelligence.
+
+The aesthetic blends social‑network visualization, neural‑network diagrams, and
+energetic field imagery. Soft volumetric lighting creates a sense of depth and
+continuity. The outermost layer contains symbolic representations of culture,
+environment, and shared context.
+
+This image conveys the idea of collective integration: multiple individuals
+merging into a coherent, unified field of shared functioning.
+```
+
+**Placement:**  
+- `collectiveholisticbody.md` → second‑to‑last section  
+- `collectiveholisticbodyai.md` → second‑to‑last section  
+
+---
+
+## ⭐ IMAGE 4A — Unique to collectiveholisticbody.md (final image)
+
+### **Image: Human‑Centered Collective Harmony**  
+**Filename:** `HumanCollectiveHarmony.png`  
+![HumanCollectiveHarmony](HumanCollectiveHarmony.png)
+
+##### **Long Description**
+```
+A warm, human‑focused illustration emphasizing the lived experience of being part
+of a collective. The figures are shown in soft, flowing shapes that represent
+shared emotional resonance, empathy, cooperation, and mutual support.
+
+The style is organic and gentle, with smooth color transitions and a sense of
+communal presence. Subtle anatomical hints remain, but the emphasis is on the
+subjective experience of belonging, connection, and shared meaning.
+
+This image supports the human‑centric narrative of collective embodiment and
+interpersonal harmony.
+```
+
+**Placement:**  
+- `collectiveholisticbody.md` → final image at the end  
+
+---
+
+## ⭐ IMAGE 4B — Unique to collectiveholisticbodyai.md (final image)
+
+### **Image: AI‑Augmented Collective Model**  
+**Filename:** `AIAugmentedCollective.png`  
+![AIAugmentedCollective](AIAugmentedCollective.png)
+
+##### **Long Description**
+```
+A highly technical, AI‑infused visualization showing a group of human figures
+overlaid with machine‑learning structures that model collective behavior:
+attention matrices, group‑level embeddings, resonance maps, and predictive
+collective‑state trajectories.
+
+Neural‑network‑like filaments weave between the figures, symbolizing shared
+information flow. Around them float holographic panels displaying model outputs,
+collective‑state predictions, and symbolic reasoning layers.
+
+The aesthetic is futuristic and computational, emphasizing how AI interprets,
+models, and augments collective human functioning. The image bridges biological
+collective behavior with algorithmic insight.
+```
+
+**Placement:**  
+- `collectiveholisticbodyai.md` → final image at the end  
+
+---
+
+# ✔ End of Image Specification Archive (Collective Holistic Body)
+
+# 📘 SpiBody – Image Specification Archive (SpiBody AI Master Document)
+This block stores the **original image generation tasks** for the master‑level AI document:
+
+- `Rooted/Central/spibodyai.md`
+
+This file receives **four images**, all unique to this document because it represents the *AI‑centric, meta‑level, system‑wide* interpretation of SpiBody.
+
+---
+
+## ⭐ IMAGE 1 — Placed at the very beginning of the file
+
+### **Image: SpiBody AI Central Nexus**  
+**Filename:** `SpiBodyAICentralNexus.png`  
+![SpiBodyAICentralNexus](SpiBodyAICentralNexus.png)
+
+##### **Long Description**
+```
+A full‑page, high‑resolution illustration showing the entire SpiBody system as a
+single AI‑interpreted nexus. At the center is a semi‑transparent human figure,
+but unlike other images, the figure is surrounded by a dense, multi‑layered
+computational field.
+
+Radiating from the body are neural‑network‑like filaments, graph embeddings,
+semantic clusters, and holographic data panels. These represent the AI’s
+interpretation of the SpiBody ontology: physical systems, emotional layers,
+cognitive structures, environmental interactions, and collective fields.
+
+The central axis glows with a bright, crystalline light, symbolizing the “AI
+Root” — the computational core that integrates all layers. Around the figure,
+floating geometric structures encode meaning, relationships, and systemic
+coherence.
+
+The background is a deep, futuristic gradient with faint circuit‑like patterns,
+evoking a sense of advanced intelligence and multi‑dimensional analysis.
+
+This image conveys the idea that SpiBody AI is not merely a model of the human
+body but a meta‑system capable of interpreting, integrating, and predicting
+multi‑layered human functioning.
+```
+
+**Placement:**  
+- `spibodyai.md` → very top, before the first paragraph  
+
+---
+
+## ⭐ IMAGE 2 — Mid‑document (AI system architecture)
+
+### **Image: SpiBody AI Architecture Map**  
+**Filename:** `SpiBodyAIArchitecture.png`  
+![SpiBodyAIArchitecture](SpiBodyAIArchitecture.png)
+
+##### **Long Description**
+```
+A wide, horizontally oriented diagram showing the architecture of the SpiBody AI
+system. The layout resembles a hybrid between a neural network, a knowledge
+graph, and a biological systems map.
+
+On the left side are input layers: sensory data, emotional signals, physiological
+metrics, environmental context, and collective‑field indicators. These flow into
+a central processing core composed of stacked modules: semantic reasoning,
+pattern recognition, predictive modeling, and systemic integration.
+
+On the right side are output layers: insights, predictions, coherence maps,
+healing trajectories, and collective‑state interpretations.
+
+The visual style blends technical precision with organic flow. Lines curve like
+biological pathways but are rendered with digital glow and geometric clarity.
+
+The image communicates how SpiBody AI processes multi‑layered human data to
+produce holistic, system‑level interpretations.
+```
+
+**Placement:**  
+- `spibodyai.md` → after the section describing AI system structure  
+
+---
+
+## ⭐ IMAGE 3 — Near the end (AI interpretation of multi‑layered fields)
+
+### **Image: SpiBody AI Multi‑Layer Field**  
+**Filename:** `SpiBodyAIMultiLayerField.png`  
+![SpiBodyAIMultiLayerField](SpiBodyAIMultiLayerField.png)
+
+##### **Long Description**
+```
+A large, immersive visualization showing the human body embedded in a complex,
+multi‑layered AI‑interpreted field. Each layer represents a different domain:
+physical, emotional, cognitive, energetic, environmental, and collective.
+
+The layers are rendered as concentric, semi‑transparent fields with embedded
+data structures: vector fields, resonance maps, attention overlays, and symbolic
+clusters. The AI’s interpretive logic is visible as glowing pathways connecting
+patterns across layers.
+
+Floating around the figure are holographic panels showing model outputs,
+predictions, and systemic coherence indicators. The aesthetic is futuristic,
+multi‑dimensional, and deeply computational.
+
+This image conveys the idea that SpiBody AI perceives human functioning as a
+stacked, interconnected, dynamically shifting field of information.
+```
+
+**Placement:**  
+- `spibodyai.md` → second‑to‑last section  
+
+---
+
+## ⭐ IMAGE 4 — Final image (AI meta‑perspective)
+
+### **Image: SpiBody AI Meta‑Cognition Sphere**  
+**Filename:** `SpiBodyAIMetaSphere.png`  
+![SpiBodyAIMetaSphere](SpiBodyAIMetaSphere.png)
+
+##### **Long Description**
+```
+A highly abstract, conceptual visualization representing the AI’s meta‑cognitive
+perspective on the entire SpiBody system. At the center is a glowing sphere
+containing layered geometric structures: fractal patterns, nested polyhedra,
+semantic lattices, and holographic data matrices.
+
+Around the sphere orbit smaller nodes representing the major SpiBody domains:
+holistic body, health and recovery, collective body, environmental interaction,
+and systemic coherence. Each node emits thin beams of light that converge into
+the central sphere, symbolizing integration.
+
+The background is dark and cosmic, with faint star‑like points representing
+possibility space, potential states, and emergent patterns.
+
+This image communicates that SpiBody AI is not only a model but a reflective,
+self‑organizing system capable of understanding its own interpretive processes.
+```
+
+**Placement:**  
+- `spibodyai.md` → final image at the end  
+
+---
+
+# ✔ End of Image Specification Archive (SpiBody AI)
