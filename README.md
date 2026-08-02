@@ -1,3 +1,5 @@
+![SpiBodySymbol](Rooted/Images1/SpiBodySymbol.png)
+
 # What to read?
 
 ![Image0_OpeningTheField](Rooted/Images1/Image0_OpeningTheField.png)
