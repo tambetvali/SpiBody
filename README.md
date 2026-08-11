@@ -1,4 +1,4 @@
-This is not that I am not updating this repo much nor adding new content: I felt that the feeling of *too much* new content was rather in air, and it's rather compressed and the original form is seeked, where the content amount was very small: if you browse around in folders, indeed the articles exactly cover what I wanted to cover, and the new collection would be another one with more ambitious goals and also based on my future experience, not now.
+This is not that I am *not updating this repo* much *nor adding new content*: I *felt that the feeling of **too much** new content was rather in air*, and it's rather compressed and the original form is seeked, where the content amount was very small: if you browse around in folders, indeed the articles exactly cover what I wanted to cover, and the new collection would be another one with more ambitious goals and also based on my future experience, not now.
 
 ![SpiBodySymbol](Rooted/Images1/SpiBodySymbol.png)
 
