@@ -1,0 +1,1 @@
+I add some results what I have got, here, so that they, too, might inspire you - feel free to contribute your own results and make sure they already contains some insights and actual progress, if this is available.
