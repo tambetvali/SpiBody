@@ -1,4 +1,4 @@
-[A Stronger Everyday Life](SpiBodyEveryday.png)
+![A Stronger Everyday Life](SpiBodyEveryday.png)
 
 # Growth
 
